@@ -50,22 +50,8 @@ const Table = () => {
   const currentHour = currentTimeNow.getHours();
   const currentMinute = currentTimeNow.getMinutes();
 
-  const filteredData = data.filter((user) => {
-    if (!user["HORÁRIO_INICIAL"] || !user["HORÁRIO_FINAL"]) return false;
-
-    const [startHour, startMinute] = user["HORÁRIO_INICIAL"].split(":").map(Number);
-    const [endHour, endMinute] = user["HORÁRIO_FINAL"].split(":").map(Number);
-
-    const startTime = startHour * 60 + startMinute;
-    const endTime = endHour * 60 + endMinute;
-    const currentTime = currentHour * 60 + currentMinute;
-
-    return (
-      user["DIA_DA_SEMANA"]?.trim().toLowerCase() === today &&
-      currentTime >= startTime - 300 &&
-      currentTime < endTime
-    );
-  });
+// Desligando o filtro só para testar se a tabela renderiza
+  const filteredData = data;
 
   filteredData.sort((a, b) => {
     const horarioA = a["HORÁRIO_INICIAL"];
