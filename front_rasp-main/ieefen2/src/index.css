@@ -1,12 +1,22 @@
+/* --- Reset e Variáveis de Cor --- */
+:root {
+  --uerj-blue: #336699;
+  --uerj-dark: #244b73;
+  --text-main: #1e293b;
+  --text-light: #64748b;
+  --bg-page: #f1f5f9; /* Fundo cinza bem claro para destacar a tabela */
+  --bg-table: #ffffff;
+}
+
 body {
   font-family: "Montserrat", sans-serif;
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  background-color: #f4f6f8; /* Fundo levemente cinza para a tabela destacar mais */
+  background-color: var(--bg-page);
+  color: var(--text-main);
 }
 
-/* Reset básico para não quebrar tamanhos */
 * {
   box-sizing: border-box;
 }
@@ -20,10 +30,11 @@ body {
 
 /* --- CABEÇALHO --- */
 .header-container {
-  background-color: rgb(51, 102, 153);
+  background: linear-gradient(135deg, var(--uerj-dark), var(--uerj-blue));
   color: white;
-  padding: 1.5vh 2vw;
-  flex-shrink: 0;
+  padding: 1.5vh 3vw;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15); /* Sombra para dar profundidade */
+  z-index: 10;
 }
 
 .header-content {
@@ -31,7 +42,7 @@ body {
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
-  height: 8vh; /* Altura fixa baseada na tela */
+  height: 8vh;
 }
 
 .title {
@@ -43,50 +54,55 @@ body {
 
 .title h1 {
   margin: 0;
-  /* Fonte responsiva: mínimo 1.2rem, ideal 2vw, máximo 2.5rem */
-  font-size: clamp(1.2rem, 2vw, 2.5rem); 
+  font-size: clamp(1.2rem, 2vw, 2.2rem);
+  font-weight: 800;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2); /* Sombra no texto */
 }
 
 .clock {
-  font-size: clamp(1rem, 1.5vw, 1.5rem);
+  font-size: clamp(1rem, 1.2vw, 1.5rem);
   margin-top: 0.5vh;
+  font-weight: 500;
+  opacity: 0.9;
 }
 
-.logo-esquerda,
-.logo-direita {
-  height: 100%; /* A logo respeita a altura do cabeçalho */
-  width: auto;  /* Mantém a proporção sem esticar */
-  max-width: 25vw; /* Impede que logos muito largas engulam a tela */
-  object-fit: contain; /* Garante que não corte as beiradas */
+.logo-esquerda, .logo-direita {
+  height: 100%;
+  max-height: 7vh;
+  width: auto;
+  max-width: 20vw;
+  object-fit: contain;
 }
 
 /* --- CONTEÚDO PRINCIPAL (TABELA) --- */
 .main-content {
-  flex-grow: 1;
+  flex: 1;
   display: flex;
-  flex-direction: column;
-  overflow: hidden;
-}
-
-.c {
-  flex-grow: 1;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 3vh 3vw;
+  padding: 3vh 3vw; /* "Respiro" ao redor de toda a tabela */
+  overflow: hidden; 
 }
 
 .table-container {
   width: 100%;
   height: 100%;
-  background-color: white;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
-  border-radius: 0.75em;
-  border: 1px solid #e5e7eb;
+  background-color: var(--bg-table);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05); /* Sombra suave em volta da tabela inteira */
+  border-radius: 16px; /* Cantos bem arredondados */
   overflow: hidden; 
   display: flex;
   flex-direction: column;
+  border: 1px solid #e2e8f0;
 }
+
+.c {
+  height: 100%;
+  overflow-y: auto; /* Se o conteúdo crescer, rola só a tabela, sem quebrar o site */
+}
+
+/* Esconde a barra de rolagem mas mantém ela funcionando */
+.c::-webkit-scrollbar { width: 6px; }
+.c::-webkit-scrollbar-track { background: transparent; }
+.c::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; }
 
 #schedule-table {
   width: 100%;
@@ -94,36 +110,69 @@ body {
   table-layout: fixed;
 }
 
+#schedule-table thead {
+  background-color: #f8fafc;
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.03); /* Linha sutil separando o cabeçalho */
+}
+
 #schedule-table th {
-  padding: 2vh 1.5vw;
+  padding: 2.5vh 1.5vw;
   text-align: left;
-  font-size: clamp(0.8rem, 1.1vw, 1.2rem);
+  font-size: clamp(0.75rem, 1vw, 1.1rem);
   font-weight: 700;
+  color: var(--text-light); /* Letra mais suave no cabeçalho */
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  border-bottom: 2px solid #e5e7eb;
+}
+
+/* Mágica do Alinhamento: Centraliza as colunas de Sala, Turma e Horários */
+#schedule-table th:nth-child(2),
+#schedule-table th:nth-child(4),
+#schedule-table th:nth-child(5),
+#schedule-table th:nth-child(6),
+#schedule-table td:nth-child(2),
+#schedule-table td:nth-child(4),
+#schedule-table td:nth-child(5),
+#schedule-table td:nth-child(6) {
+  text-align: center;
+}
+
+#schedule-table tbody tr {
+  transition: background-color 0.2s ease;
 }
 
 #schedule-table tbody tr:nth-child(even) {
-  background-color: #f9fafb;
+  background-color: #f8fafc; /* Linha zebrada super suave */
+}
+
+#schedule-table tbody tr:hover {
+  background-color: #e2e8f0; /* Fica cinza quando o mouse passa por cima */
 }
 
 #schedule-table td {
-  padding: 2vh 1.5vw;
-  font-size: clamp(0.9rem, 1.2vw, 1.3rem);
-  color: black;
-  border-bottom: 1px solid #f3f4f6;
+  padding: 2.5vh 1.5vw;
+  font-size: clamp(0.85rem, 1.1vw, 1.2rem);
+  font-weight: 500;
+  color: var(--text-main);
+  border-bottom: 1px solid #f1f5f9;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis; /* Se o nome do prof for gigante, vira "..." e não quebra a linha */
 }
 
 /* --- RODAPÉ --- */
 .footer-container {
-  background-color: rgb(51, 102, 153);
+  background: linear-gradient(135deg, var(--uerj-dark), var(--uerj-blue));
   color: white;
-  padding: 1.5vh 2vw;
+  padding: 1.5vh 2vw 1vh 2vw;
   display: flex;
   flex-direction: column;
   align-items: center;
-  flex-shrink: 0;
+  box-shadow: 0 -4px 15px rgba(0, 0, 0, 0.1);
+  z-index: 10;
 }
 
 .footer-content {
@@ -131,22 +180,25 @@ body {
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  gap: 2vw; /* Espaçamento entre os banners */
+  gap: 3vw; 
   width: 100%;
 }
 
 .banner {
-  height: 12vh; /* Usa a altura como base */
-  width: auto;  /* A largura acompanha a altura */
-  max-width: 48vw; /* Impede que um passe em cima do outro */
-  object-fit: contain; /* A mágica que impede as imagens de ficarem esticadas */
+  height: 10vh; 
+  width: auto;
+  max-width: 45vw;
+  object-fit: contain; 
+  border-radius: 8px; /* Arredonda as pontas dos banners */
+  background-color: rgba(255, 255, 255, 0.9); /* Fundo branco pra destacar a logo da RNR */
+  padding: 4px;
 }
 
 .footer-text {
-  font-size: clamp(0.7rem, 1vw, 1rem);
-  font-weight: 700;
+  font-size: clamp(0.7rem, 0.9vw, 1rem);
+  font-weight: 600;
   margin-top: 1vh;
-  text-align: center;
+  color: #e2e8f0;
 }
 
 .footer-text p {
