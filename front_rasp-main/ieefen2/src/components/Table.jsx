@@ -19,26 +19,23 @@ const Table = () => {
     return () => clearInterval(timeInterval);
   }, []);
 
-  // 2. Buscar dados da API quebrando o cache do Vercel
+// 2. Buscar dados da API quebrando o cache do Vercel
   useEffect(() => {
     const fetchHorarios = () => {
       // O timestamp força o Vercel a baixar o JSON mais recente
       const timestamp = new Date().getTime();
       const JSON_API_URL = `/horarios2.json?v=${timestamp}`;
 
-      axios
-        .get(JSON_API_URL)
-        .then((res) => {
-          setData(res.data);
-        })
+      axios.get(JSON_API_URL)
+        .then((res) => setData(res.data))
         .catch((err) => {
-          console.error("Erro ao buscar os dados:", err);
-          setData([]);
+          console.error("Modo offline: Falha ao atualizar horários. Mantendo dados antigos.", err);
+          // O setData([]) foi removido daqui para manter a tabela na tela se a internet cair
         });
-    };
+    }; // <--- ESSA CHAVE AQUI ESTAVA FALTANDO NO SEU CÓDIGO!
 
     fetchHorarios();
-    
+
     // Atualiza o JSON a cada 5 minutos automaticamente sem precisar dar F5
     const fetchInterval = setInterval(fetchHorarios, 300000);
     return () => clearInterval(fetchInterval);
