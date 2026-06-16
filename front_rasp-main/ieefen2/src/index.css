@@ -1,11 +1,13 @@
-/* --- Reset e Variáveis de Cor --- */
+/* Importação de fonte extra para os horários (estilo digital/painel) */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&family=Space+Mono:wght@700&display=swap');
+
 :root {
   --uerj-blue: #336699;
-  --uerj-dark: #244b73;
-  --text-main: #1e293b;
+  --uerj-dark: #1e3a5f;
+  --accent-color: #0ea5e9; /* Azul claro para destaques */
+  --text-main: #0f172a;
   --text-light: #64748b;
-  --bg-page: #f1f5f9; /* Fundo cinza bem claro para destacar a tabela */
-  --bg-table: #ffffff;
+  --bg-table: rgba(255, 255, 255, 0.95); /* Tabela ligeiramente translúcida */
 }
 
 body {
@@ -13,8 +15,20 @@ body {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  background-color: var(--bg-page);
   color: var(--text-main);
+  cursor: none; /* Esconde o rato na TV */
+  
+  /* Fundo Animado Elegante */
+  background: linear-gradient(-45deg, #e2e8f0, #f8fafc, #e0e7ff, #f1f5f9);
+  background-size: 400% 400%;
+  animation: gradientBG 20s ease infinite;
+}
+
+/* Animação do fundo */
+@keyframes gradientBG {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
 }
 
 * {
@@ -28,12 +42,15 @@ body {
   overflow: hidden;
 }
 
-/* --- CABEÇALHO --- */
+/* --- CABEÇALHO (EFEITO VIDRO) --- */
 .header-container {
-  background: linear-gradient(135deg, var(--uerj-dark), var(--uerj-blue));
+  background: rgba(30, 58, 95, 0.85); /* Azul translúcido */
+  backdrop-filter: blur(12px); /* Desfoque do fundo (Glassmorphism) */
+  -webkit-backdrop-filter: blur(12px);
   color: white;
   padding: 1.5vh 3vw;
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15); /* Sombra para dar profundidade */
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
   z-index: 10;
 }
 
@@ -54,16 +71,20 @@ body {
 
 .title h1 {
   margin: 0;
-  font-size: clamp(1.2rem, 2vw, 2.2rem);
+  font-size: clamp(1.4rem, 2.2vw, 2.5rem);
   font-weight: 800;
-  text-shadow: 1px 1px 3px rgba(0,0,0,0.2); /* Sombra no texto */
+  letter-spacing: 0.02em;
+  text-shadow: 0 2px 10px rgba(0,0,0,0.3);
 }
 
 .clock {
-  font-size: clamp(1rem, 1.2vw, 1.5rem);
-  margin-top: 0.5vh;
-  font-weight: 500;
-  opacity: 0.9;
+  font-family: 'Space Mono', monospace; /* Fonte digital para o relógio */
+  font-size: clamp(1.1rem, 1.4vw, 1.8rem);
+  margin-top: 0.8vh;
+  font-weight: 700;
+  color: #bae6fd; /* Azul bem clarinho */
+  text-shadow: 0 0 12px rgba(186, 230, 253, 0.6); /* Efeito neon/brilho */
+  letter-spacing: 0.1em;
 }
 
 .logo-esquerda, .logo-direita {
@@ -72,13 +93,14 @@ body {
   width: auto;
   max-width: 20vw;
   object-fit: contain;
+  filter: drop-shadow(0px 2px 4px rgba(0,0,0,0.2)); /* Sombra nas logos */
 }
 
 /* --- CONTEÚDO PRINCIPAL (TABELA) --- */
 .main-content {
   flex: 1;
   display: flex;
-  padding: 3vh 3vw; /* "Respiro" ao redor de toda a tabela */
+  padding: 4vh 4vw; 
   overflow: hidden; 
 }
 
@@ -86,23 +108,19 @@ body {
   width: 100%;
   height: 100%;
   background-color: var(--bg-table);
-  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05); /* Sombra suave em volta da tabela inteira */
-  border-radius: 16px; /* Cantos bem arredondados */
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.08), 0 0 0 1px rgba(255,255,255,0.5) inset; 
+  border-radius: 24px; /* Cantos ainda mais suaves e modernos */
   overflow: hidden; 
   display: flex;
   flex-direction: column;
-  border: 1px solid #e2e8f0;
 }
 
 .c {
   height: 100%;
-  overflow-y: auto; /* Se o conteúdo crescer, rola só a tabela, sem quebrar o site */
+  overflow-y: auto; 
 }
 
-/* Esconde a barra de rolagem mas mantém ela funcionando */
-.c::-webkit-scrollbar { width: 6px; }
-.c::-webkit-scrollbar-track { background: transparent; }
-.c::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; }
+.c::-webkit-scrollbar { width: 0px; } /* Oculta a barra de rolagem visualmente para ficar mais limpo na TV */
 
 #schedule-table {
   width: 100%;
@@ -111,24 +129,25 @@ body {
 }
 
 #schedule-table thead {
-  background-color: #f8fafc;
+  background-color: rgba(248, 250, 252, 0.95);
+  backdrop-filter: blur(4px);
   position: sticky;
   top: 0;
   z-index: 2;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.03); /* Linha sutil separando o cabeçalho */
+  box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);
 }
 
 #schedule-table th {
-  padding: 2.5vh 1.5vw;
+  padding: 3vh 1.5vw;
   text-align: left;
-  font-size: clamp(0.75rem, 1vw, 1.1rem);
-  font-weight: 700;
-  color: var(--text-light); /* Letra mais suave no cabeçalho */
+  font-size: clamp(0.75rem, 0.9vw, 1.1rem);
+  font-weight: 800;
+  color: var(--text-light);
   text-transform: uppercase;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.1em; /* Letras mais espaçadas no cabeçalho */
 }
 
-/* Mágica do Alinhamento: Centraliza as colunas de Sala, Turma e Horários */
+/* Centraliza Colunas Numéricas */
 #schedule-table th:nth-child(2),
 #schedule-table th:nth-child(4),
 #schedule-table th:nth-child(5),
@@ -140,38 +159,64 @@ body {
   text-align: center;
 }
 
+/* Efeito Fade-In Suave a cada atualização da tabela */
+@keyframes fadeInRow {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+#schedule-table tbody {
+  animation: fadeInRow 0.6s ease-out;
+}
+
 #schedule-table tbody tr {
-  transition: background-color 0.2s ease;
+  transition: all 0.3s ease;
+  border-left: 4px solid transparent; /* Preparação para o efeito de destaque */
 }
 
 #schedule-table tbody tr:nth-child(even) {
-  background-color: #f8fafc; /* Linha zebrada super suave */
-}
-
-#schedule-table tbody tr:hover {
-  background-color: #e2e8f0; /* Fica cinza quando o mouse passa por cima */
+  background-color: #f8fafc; 
 }
 
 #schedule-table td {
   padding: 2.5vh 1.5vw;
-  font-size: clamp(0.85rem, 1.1vw, 1.2rem);
-  font-weight: 500;
+  font-size: clamp(0.9rem, 1.1vw, 1.3rem);
+  font-weight: 600;
   color: var(--text-main);
   border-bottom: 1px solid #f1f5f9;
   white-space: nowrap;
   overflow: hidden;
-  text-overflow: ellipsis; /* Se o nome do prof for gigante, vira "..." e não quebra a linha */
+  text-overflow: ellipsis;
 }
 
-/* --- RODAPÉ --- */
+/* Destaque Visual para as Horas e Turma (Estilo Painel) */
+#schedule-table td:nth-child(4),
+#schedule-table td:nth-child(5),
+#schedule-table td:nth-child(6) {
+  font-family: 'Space Mono', monospace; /* Fonte tipo relógio */
+  color: var(--uerj-blue);
+  font-weight: 700;
+  font-size: clamp(1rem, 1.2vw, 1.4rem);
+}
+
+/* Destaque para a Sala */
+#schedule-table td:nth-child(2) {
+  font-weight: 800;
+  color: var(--text-light);
+}
+
+/* --- RODAPÉ (EFEITO VIDRO) --- */
 .footer-container {
-  background: linear-gradient(135deg, var(--uerj-dark), var(--uerj-blue));
+  background: rgba(30, 58, 95, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
   color: white;
-  padding: 1.5vh 2vw 1vh 2vw;
+  padding: 1.5vh 2vw 1.5vh 2vw;
   display: flex;
   flex-direction: column;
   align-items: center;
-  box-shadow: 0 -4px 15px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 -4px 30px rgba(0, 0, 0, 0.1);
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
   z-index: 10;
 }
 
@@ -180,7 +225,7 @@ body {
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  gap: 3vw; 
+  gap: 4vw; 
   width: 100%;
 }
 
@@ -189,27 +234,22 @@ body {
   width: auto;
   max-width: 45vw;
   object-fit: contain; 
-  border-radius: 8px; /* Arredonda as pontas dos banners */
-  background-color: rgba(255, 255, 255, 0.9); /* Fundo branco pra destacar a logo da RNR */
-  padding: 4px;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.95);
+  padding: 6px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2); /* Sombra elegante nos banners */
+  transition: transform 0.5s ease;
 }
 
 .footer-text {
-  font-size: clamp(0.7rem, 0.9vw, 1rem);
-  font-weight: 600;
-  margin-top: 1vh;
-  color: #e2e8f0;
+  font-size: clamp(0.7rem, 0.8vw, 1rem);
+  font-weight: 500;
+  margin-top: 1.5vh;
+  color: #cbd5e1;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
 }
 
 .footer-text p {
   margin: 0;
-}
-
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(5px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-
-#schedule-table tbody {
-  animation: fadeIn 0.5s ease-out;
 }
