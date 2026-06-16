@@ -117,13 +117,14 @@ body {
 
 .c {
   height: 100%;
-  overflow-y: auto; 
+  overflow: hidden; 
 }
 
 .c::-webkit-scrollbar { width: 0px; } /* Oculta a barra de rolagem visualmente para ficar mais limpo na TV */
 
 #schedule-table {
   width: 100%;
+  height: 100%;
   border-collapse: collapse;
   table-layout: fixed;
 }
