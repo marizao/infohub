@@ -124,7 +124,7 @@ body {
 
 #schedule-table {
   width: 100%;
-  height: 100%;
+  height: 100%; /* <- ADICIONE ESTA LINHA. Ela estica as TRs (linhas) como um elástico! */
   border-collapse: collapse;
   table-layout: fixed;
 }

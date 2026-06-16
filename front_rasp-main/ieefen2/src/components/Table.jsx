@@ -4,51 +4,91 @@ import axios from "axios";
 const Table = () => {
   const [data, setData] = useState([]);
   const [startIndex, setStartIndex] = useState(0);
-  
-  // Estado para manter a hora atualizada em tempo real no painel
   const [currentTimeNow, setCurrentTimeNow] = useState(new Date()); 
   
-  const itemsPerPage = 6;
+  // NOVO: Começamos com um valor seguro, mas a TV vai calcular isso sozinha.
+  const [itemsPerPage, setItemsPerPage] = useState(8); 
   const updateInterval = 15000; 
 
-  // 1. Relógio interno para o painel não "congelar" no tempo
+  // 1. Relógio interno
   useEffect(() => {
     const timeInterval = setInterval(() => {
       setCurrentTimeNow(new Date());
-    }, 60000); // Atualiza a hora a cada 1 minuto
+    }, 60000); 
     return () => clearInterval(timeInterval);
   }, []);
 
-// 2. Buscar dados da API quebrando o cache do Vercel
+  // 2. NOVO: Detetive de Tamanho de Tela (Auto-Scale)
+  useEffect(() => {
+    const adjustTableSize = () => {
+      // Pega a altura real da TV em pixels
+      const screenHeight = window.innerHeight;
+      
+      // LÓGICA:
+      // O Cabeçalho, o Rodapé e as margens azuis ocupam cerca de 350px.
+      // O espaço que sobra é exclusivamente para as linhas de aula.
+      const availableHeightForRows = screenHeight - 350; 
+      
+      // Uma linha nossa tem em média de 70px de altura.
+      // Dividimos o espaço que sobrou por 70 para ver quantas linhas cabem exatas!
+      let calculatedRows = Math.floor(availableHeightForRows / 70);
+      
+      // Travas de segurança: Nunca mostrar menos que 4 aulas e nunca mais de 14.
+      if (calculatedRows < 4) calculatedRows = 4;
+      if (calculatedRows > 14) calculatedRows = 14;
+
+      setItemsPerPage(calculatedRows);
+    };
+
+    // Calcula imediatamente assim que a página carrega
+    adjustTableSize(); 
+    
+    // Se por acaso alguém redimensionar a tela, ele recalcula sozinho
+    window.addEventListener("resize", adjustTableSize); 
+    return () => window.removeEventListener("resize", adjustTableSize);
+  }, []);
+
+  // 3. Buscar dados da API
   useEffect(() => {
     const fetchHorarios = () => {
-      // O timestamp força o Vercel a baixar o JSON mais recente
       const timestamp = new Date().getTime();
       const JSON_API_URL = `/horarios2.json?v=${timestamp}`;
 
-      axios.get(JSON_API_URL)
+      axios
+        .get(JSON_API_URL)
         .then((res) => setData(res.data))
         .catch((err) => {
           console.error("Modo offline: Falha ao atualizar horários. Mantendo dados antigos.", err);
-          // O setData([]) foi removido daqui para manter a tabela na tela se a internet cair
         });
-    }; // <--- ESSA CHAVE AQUI ESTAVA FALTANDO NO SEU CÓDIGO!
+    };
 
     fetchHorarios();
-
-    // Atualiza o JSON a cada 5 minutos automaticamente sem precisar dar F5
     const fetchInterval = setInterval(fetchHorarios, 300000);
     return () => clearInterval(fetchInterval);
   }, []);
 
-  // 3. Filtrando os dados usando o tempo real
+  // 4. Lógica de Filtro
   const dayName = ["domingo", "seg", "ter", "qua", "qui", "sex", "sábado"];
   const today = dayName[currentTimeNow.getDay()];
   const currentHour = currentTimeNow.getHours();
   const currentMinute = currentTimeNow.getMinutes();
 
-// Desligando o filtro só para testar se a tabela renderiza
-  const filteredData = data;
+  const filteredData = data.filter((user) => {
+    if (!user["HORÁRIO_INICIAL"] || !user["HORÁRIO_FINAL"]) return false;
+
+    const [startHour, startMinute] = user["HORÁRIO_INICIAL"].split(":").map(Number);
+    const [endHour, endMinute] = user["HORÁRIO_FINAL"].split(":").map(Number);
+
+    const startTime = startHour * 60 + startMinute;
+    const endTime = endHour * 60 + endMinute;
+    const currentTime = currentHour * 60 + currentMinute;
+
+    return (
+      user["DIA_DA_SEMANA"]?.trim().toLowerCase() === today &&
+      currentTime >= startTime - 300 &&
+      currentTime < endTime
+    );
+  });
 
   filteredData.sort((a, b) => {
     const horarioA = a["HORÁRIO_INICIAL"];
@@ -58,7 +98,7 @@ const Table = () => {
     return 0;
   });
 
-  // 4. Paginação
+  // 5. Paginação adaptada para o número dinâmico
   useEffect(() => {
     const interval = setInterval(() => {
       setStartIndex((prev) => {
@@ -68,7 +108,7 @@ const Table = () => {
     }, updateInterval);
 
     return () => clearInterval(interval);
-  }, [filteredData]);
+  }, [filteredData, itemsPerPage]);
 
   const paginatedData = filteredData.slice(
     startIndex,
