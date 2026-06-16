@@ -212,7 +212,7 @@ body {
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
   color: white;
-  padding: 1.5vh 2vw 1.5vh 2vw;
+  padding: 1.5vh 0.5vw 1vh 0.5vw; /* Reduzimos o padding lateral para esticar até os cantos */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -225,27 +225,27 @@ body {
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: center;
-  gap: 4vw; 
+  justify-content: space-between; /* Empurra os banners para as extremidades */
+  gap: 1vw; /* Espaço bem pequeno entre um banner e outro no meio */
   width: 100%;
+  height: 16vh; /* Aumentamos bem a altura para a imagem poder crescer mais */
 }
 
 .banner {
-  height: 10vh; 
-  width: auto;
-  max-width: 45vw;
-  object-fit: contain; 
-  border-radius: 12px;
-  background-color: rgba(255, 255, 255, 0.95);
-  padding: 6px;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.2); /* Sombra elegante nos banners */
-  transition: transform 0.5s ease;
+  flex: 1; /* Faz os banners crescerem para preencher os 100% da largura disponíveis */
+  height: 100%; 
+  width: 100%;
+  max-width: 50vw; /* Garante que ocupam até metade da tela cada um */
+  object-fit: contain; /* A MÁGICA: A arte cresce o máximo que pode sem cortar e sem distorcer */
+  border-radius: 8px;
+  background-color: rgba(255, 255, 255, 0.95); /* Fundo branco para a logo ficar visível */
+  padding: 4px;
 }
 
 .footer-text {
   font-size: clamp(0.7rem, 0.8vw, 1rem);
   font-weight: 500;
-  margin-top: 1.5vh;
+  margin-top: 1vh;
   color: #cbd5e1;
   letter-spacing: 0.05em;
   text-transform: uppercase;

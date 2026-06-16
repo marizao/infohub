@@ -8,7 +8,7 @@ const Table = () => {
   // Estado para manter a hora atualizada em tempo real no painel
   const [currentTimeNow, setCurrentTimeNow] = useState(new Date()); 
   
-  const itemsPerPage = 10;
+  const itemsPerPage = 6;
   const updateInterval = 15000; 
 
   // 1. Relógio interno para o painel não "congelar" no tempo
