@@ -1,0 +1,155 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: white;
+}
+
+.app-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.header-container {
+  min-height: 5vh;
+  background-color: rgb(51, 102, 153);
+  color: white;
+  padding: 1.5em;
+}
+
+.header-content {
+  min-height: 5vh;
+  margin-left: 0px;
+  margin-right: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.title {
+  text-align: center;
+  flex-direction: column;
+  align-items: center;
+  font-size: 1.25vw;
+  font-weight: 700;
+}
+
+.clock {
+  font-size: 2vh;
+}
+
+.logo-esquerda {
+  height: auto;
+  width: 25vw;
+  object-fit: contain;
+}
+
+.logo-direita {
+  height: auto;
+  width: 20vw;
+  object-fit: contain;
+}
+
+.main-content {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.c {
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1em;
+  background-color: white;
+}
+
+.table-container {
+  width: 100%;
+  background-color: white;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+  border-radius: 0.75em;
+  border: 1px solid#e5e7eb;
+}
+
+#schedule-table {
+  min-width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+#schedule-table th {
+  padding: 0.75em 1.5em;
+  text-align: left;
+  font-size: 1vw;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+#schedule-table th:first-child {
+  border-top-left-radius: 0.75em;
+}
+
+#schedule-table th:last-child {
+  border-top-right-radius: 0.75em;
+}
+
+#schedule-table tbody {
+  background-color: white;
+}
+
+#schedule-table tr:nth-child(even) {
+  background-color: #f9fafb;
+}
+
+#schedule-table td {
+  padding: 1em 1.5em;
+  font-size: 1vw;
+  color: black;
+}
+
+.footer-container {
+  width: 100%;
+  background-color: rgb(51, 102, 153);
+  padding: 0.3em 0px 0px 0px;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.footer-content {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 5px;
+}
+
+.banner {
+  width: 50vw;
+  max-width: 100vw;
+  height: 15vh;
+}
+
+.footer-text {
+  padding: 1px;
+  font-size: 1vw;
+  font-weight: 700;
+  color: white;
+  margin-top: auto;
+}
+
+.footer-text p {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}

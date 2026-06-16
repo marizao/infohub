@@ -1,0 +1,452 @@
+[
+  {
+    "PROFESSOR": "Professor Carvalho",
+    "SALA": "5029F-02",
+    "DISCIPLINA": "Algoritmos e Estrutura de Dados",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professor Antunes",
+    "SALA": "5005F",
+    "DISCIPLINA": "Engenharia de Software",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professora Bastos",
+    "SALA": "5003F",
+    "DISCIPLINA": "Banco de Dados",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professor Dias",
+    "SALA": "5029F-01",
+    "DISCIPLINA": "Redes de Computadores",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professora Esteves",
+    "SALA": "5017A",
+    "DISCIPLINA": "Sistemas Operacionais",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professor Farias",
+    "SALA": "5026F",
+    "DISCIPLINA": "Inteligência Artificial",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professora Gomes",
+    "SALA": "5029F-LES",
+    "DISCIPLINA": "Desenvolvimento Web",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professor Henriques",
+    "SALA": "5029F-02",
+    "DISCIPLINA": "Programação Mobile",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professora Iglesias",
+    "SALA": "5005F",
+    "DISCIPLINA": "Segurança da Informação",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professor Jorge",
+    "SALA": "5003F",
+    "DISCIPLINA": "Computação Gráfica",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professora Klein",
+    "SALA": "5029F-01",
+    "DISCIPLINA": "Abastecimento de Água I",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professor Lopes",
+    "SALA": "5017A",
+    "DISCIPLINA": "Avaliação de Impactos e Riscos Ambientais",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professora Mendes",
+    "SALA": "5026F",
+    "DISCIPLINA": "Biossegurança Aplicada à Engenharia Ambiental e Sanitária",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professor Nogueira",
+    "SALA": "5029F-LES",
+    "DISCIPLINA": "Ecologia Aplicada à Engenharia Ambiental e Sanitária",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professora Oliveira",
+    "SALA": "5029F-02",
+    "DISCIPLINA": "Ecotoxicologia",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professor Pires",
+    "SALA": "5005F",
+    "DISCIPLINA": "Epidemiologia Ambiental",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professora Queiroz",
+    "SALA": "5003F",
+    "DISCIPLINA": "Estágio Supervisionado",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professor Ramos",
+    "SALA": "5029F-01",
+    "DISCIPLINA": "Físico-Química Ambiental",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professora Santos",
+    "SALA": "5017A",
+    "DISCIPLINA": "Geotecnia Ambiental",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professor Teixeira",
+    "SALA": "5026F",
+    "DISCIPLINA": "Gestão de Recursos Hídricos",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professora Vasconcelos",
+    "SALA": "5029F-LES",
+    "DISCIPLINA": "Gestão Integrada de Resíduos Sólidos",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professor Xavier",
+    "SALA": "5029F-02",
+    "DISCIPLINA": "Hidráulica I",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professora Yunes",
+    "SALA": "5005F",
+    "DISCIPLINA": "Hidráulica II",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professor Zandonadi",
+    "SALA": "5003F",
+    "DISCIPLINA": "Hidrologia e Climatologia",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professora Alves",
+    "SALA": "5029F-01",
+    "DISCIPLINA": "Instalações Hidráulicas",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professor Borges",
+    "SALA": "5017A",
+    "DISCIPLINA": "Irrigação e Drenagem",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professora Castro",
+    "SALA": "5026F",
+    "DISCIPLINA": "Metodologia e Desenvolvimento de Projeto",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professor Diniz",
+    "SALA": "5029F-LES",
+    "DISCIPLINA": "Modelagem Aplicada à Engenharia Ambiental e Sanitária",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professora Esteves",
+    "SALA": "5029F-02",
+    "DISCIPLINA": "Monitoramento Ambiental",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professor Fernandes",
+    "SALA": "5005F",
+    "DISCIPLINA": "Obras Hidráulicas",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professora Guedes",
+    "SALA": "5003F",
+    "DISCIPLINA": "Planejamento Estratégico e Recursos Renováveis",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professor Hermes",
+    "SALA": "5029F-01",
+    "DISCIPLINA": "Políticas Públicas e Gestão Ambiental",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professora Isidoro",
+    "SALA": "5017A",
+    "DISCIPLINA": "Poluição Atmosférica",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professor Jardim",
+    "SALA": "5026F",
+    "DISCIPLINA": "Projeto de Graduação",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professora Lemos",
+    "SALA": "5029F-LES",
+    "DISCIPLINA": "Segurança e Higiene do Trabalho",
+    "TURMA": 2,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professor Mattos",
+    "SALA": "5029F-02",
+    "DISCIPLINA": "Sistemas de Esgoto I",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professora Neves",
+    "SALA": "5005F",
+    "DISCIPLINA": "Sociedade e Meio Ambiente",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professor Noronha",
+    "SALA": "5003F",
+    "DISCIPLINA": "Tópicos Especiais Aplicados à Engenharia Ambiental e Sanitária I",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professora Pacheco",
+    "SALA": "5029F-01",
+    "DISCIPLINA": "Tópicos Especiais Aplicados à Engenharia Ambiental e Sanitária II",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professor Queiroz",
+    "SALA": "5017A",
+    "DISCIPLINA": "Tratamento de Água I",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professora Rangel",
+    "SALA": "5026F",
+    "DISCIPLINA": "Tratamento de Efluentes Líquidos e Reuso",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professor Silva",
+    "SALA": "5029F-LES",
+    "DISCIPLINA": "Tratamento de Esgoto I",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professora Tavares",
+    "SALA": "5029F-02",
+    "DISCIPLINA": "Tratamento e Disposição de Resíduos Sólidos",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professor Urbano",
+    "SALA": "5005F",
+    "DISCIPLINA": "Algoritmos e Estrutura de Dados",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professora Vieira",
+    "SALA": "5003F",
+    "DISCIPLINA": "Engenharia de Software",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professor Weiss",
+    "SALA": "5029F-01",
+    "DISCIPLINA": "Banco de Dados",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professora Ximenes",
+    "SALA": "5017A",
+    "DISCIPLINA": "Redes de Computadores",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professor Zambelli",
+    "SALA": "5026F",
+    "DISCIPLINA": "Sistemas Operacionais",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professora Azevedo",
+    "SALA": "5029F-LES",
+    "DISCIPLINA": "Inteligência Artificial",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  },
+  {
+    "PROFESSOR": "Professor Bastos",
+    "SALA": "5029F-02",
+    "DISCIPLINA": "Desenvolvimento Web",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "19:30:00",
+    "HORÁRIO_FINAL": "22:00:00"
+  }
+]

@@ -1,0 +1,1298 @@
+[
+  {
+    "PROFESSOR": "José Rodolfo Souza",
+    "SALA": "5088F",
+    "DISCIPLINA": "Antenas e Propagação I",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "08:50:00",
+    "HORÁRIO_FINAL": "11:30:00"
+  },
+  {
+    "PROFESSOR": "José Rodolfo Souza",
+    "SALA": "5088F",
+    "DISCIPLINA": "Antenas e Propagação I",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "07:50:00",
+    "HORÁRIO_FINAL": "09:40:00"
+  },
+  {
+    "PROFESSOR": "José Rodolfo Souza",
+    "SALA": "5024F",
+    "DISCIPLINA": "Antenas e Propagação II",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "14:20:00",
+    "HORÁRIO_FINAL": "16:00:00"
+  },
+  {
+    "PROFESSOR": "José Rodolfo Souza",
+    "SALA": "5024F",
+    "DISCIPLINA": "Antenas e Propagação II",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "qui",
+    "HORÁRIO_INICIAL": "13:20:00",
+    "HORÁRIO_FINAL": "16:00:00"
+  },
+  {
+    "PROFESSOR": "Téo Cerqueira Revoredo",
+    "SALA": "LEE11C",
+    "DISCIPLINA": "Circuitos Comb e Sequenciais",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "qui",
+    "HORÁRIO_INICIAL": "14:20:00",
+    "HORÁRIO_FINAL": "16:00:00"
+  },
+  {
+    "PROFESSOR": "Téo Cerqueira Revoredo",
+    "SALA": "LEE11C",
+    "DISCIPLINA": "Circuitos Comb e Sequenciais",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "14:20:00",
+    "HORÁRIO_FINAL": "16:00:00"
+  },
+  {
+    "PROFESSOR": "Fernando Lopes Cardoso",
+    "SALA": "LEE18",
+    "DISCIPLINA": "Circuitos Comb e Sequenciais",
+    "TURMA": 2,
+    "DIA_DA_SEMANA": "qui",
+    "HORÁRIO_INICIAL": "14:20:00",
+    "HORÁRIO_FINAL": "16:00:00"
+  },
+  {
+    "PROFESSOR": "Fernando Lopes Cardoso",
+    "SALA": "LEE18",
+    "DISCIPLINA": "Circuitos Comb e Sequenciais",
+    "TURMA": 2,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "14:20:00",
+    "HORÁRIO_FINAL": "16:00:00"
+  },
+  {
+    "PROFESSOR": "Gil Roberto Vieira Pinheiro",
+    "SALA": "LEE18",
+    "DISCIPLINA": "Circuitos de Comunicação",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "16:10:00",
+    "HORÁRIO_FINAL": "18:50:00"
+  },
+  {
+    "PROFESSOR": "Gil Roberto Vieira Pinheiro",
+    "SALA": "LEE13",
+    "DISCIPLINA": "Circuitos de Comunicação",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "qui",
+    "HORÁRIO_INICIAL": "16:10:00",
+    "HORÁRIO_FINAL": "18:00:00"
+  },
+  {
+    "PROFESSOR": "Nadia Nedjah",
+    "SALA": "(LEE10 ou LEE11J)",
+    "DISCIPLINA": "Computadores Digitais I",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "08:50:00",
+    "HORÁRIO_FINAL": "10:30:00"
+  },
+  {
+    "PROFESSOR": "Nadia Nedjah",
+    "SALA": "5092F",
+    "DISCIPLINA": "Computadores Digitais I",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "08:50:00",
+    "HORÁRIO_FINAL": "11:30:00"
+  },
+  {
+    "PROFESSOR": "Nadia Nedjah",
+    "SALA": "(LEE10 ou LEE11J)",
+    "DISCIPLINA": "Computadores Digitais I",
+    "TURMA": 2,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "10:40:00",
+    "HORÁRIO_FINAL": "12:20:00"
+  },
+  {
+    "PROFESSOR": "Nadia Nedjah",
+    "SALA": "5092F",
+    "DISCIPLINA": "Computadores Digitais I",
+    "TURMA": 2,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "08:50:00",
+    "HORÁRIO_FINAL": "11:30:00"
+  },
+  {
+    "PROFESSOR": "Ian Vilar Bastos",
+    "SALA": "LEE15",
+    "DISCIPLINA": "Computadores Digitais II",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "qua",
+    "HORÁRIO_INICIAL": "13:20:00",
+    "HORÁRIO_FINAL": "15:10:00"
+  },
+  {
+    "PROFESSOR": "Ian Vilar Bastos",
+    "SALA": "LEE15",
+    "DISCIPLINA": "Computadores Digitais II",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "qui",
+    "HORÁRIO_INICIAL": "13:20:00",
+    "HORÁRIO_FINAL": "16:00:00"
+  },
+  {
+    "PROFESSOR": "José Paulo Vilela Soares Da Cunha",
+    "SALA": "LEE16",
+    "DISCIPLINA": "Controle e Servomecanismos I",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "qua",
+    "HORÁRIO_INICIAL": "11:30:00",
+    "HORÁRIO_FINAL": "13:20:00"
+  },
+  {
+    "PROFESSOR": "José Paulo Vilela Soares Da Cunha",
+    "SALA": "5088F",
+    "DISCIPLINA": "Controle e Servomecanismos I",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "10:40:00",
+    "HORÁRIO_FINAL": "13:20:00"
+  },
+  {
+    "PROFESSOR": "José Paulo Vilela Soares Da Cunha",
+    "SALA": "LEE16",
+    "DISCIPLINA": "Controle e Servomecanismos I",
+    "TURMA": 2,
+    "DIA_DA_SEMANA": "qua",
+    "HORÁRIO_INICIAL": "09:40:00",
+    "HORÁRIO_FINAL": "11:30:00"
+  },
+  {
+    "PROFESSOR": "José Paulo Vilela Soares Da Cunha",
+    "SALA": "5088F",
+    "DISCIPLINA": "Controle e Servomecanismos I",
+    "TURMA": 2,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "10:40:00",
+    "HORÁRIO_FINAL": "13:20:00"
+  },
+  {
+    "PROFESSOR": "Téo Cerqueira Revoredo",
+    "SALA": "5098F",
+    "DISCIPLINA": "Controle e Servomecanismos I",
+    "TURMA": 3,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "08:50:00",
+    "HORÁRIO_FINAL": "11:30:00"
+  },
+  {
+    "PROFESSOR": "Téo Cerqueira Revoredo",
+    "SALA": "LEE16",
+    "DISCIPLINA": "Controle e Servomecanismos I",
+    "TURMA": 3,
+    "DIA_DA_SEMANA": "qui",
+    "HORÁRIO_INICIAL": "08:50:00",
+    "HORÁRIO_FINAL": "10:30:00"
+  },
+  {
+    "PROFESSOR": "Tiago Roux De Oliveira",
+    "SALA": "LEE16",
+    "DISCIPLINA": "Controle e Servomecanismos II",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "13:20:00",
+    "HORÁRIO_FINAL": "18:00:00"
+  },
+  {
+    "PROFESSOR": "Pedro Henrique Silva Coutinho",
+    "SALA": "5024F",
+    "DISCIPLINA": "Controle e Servomecanismos III",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "08:50:00",
+    "HORÁRIO_FINAL": "11:30:00"
+  },
+  {
+    "PROFESSOR": "Pedro Henrique Silva Coutinho",
+    "SALA": "(LEE11J ou LEE16)",
+    "DISCIPLINA": "Controle e Servomecanismos III",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "08:50:00",
+    "HORÁRIO_FINAL": "10:30:00"
+  },
+  {
+    "PROFESSOR": "Téo Cerqueira Revoredo",
+    "SALA": "5024F",
+    "DISCIPLINA": "Controle e Servomecanismos III",
+    "TURMA": 2,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "08:50:00",
+    "HORÁRIO_FINAL": "11:30:00"
+  },
+  {
+    "PROFESSOR": "Téo Cerqueira Revoredo",
+    "SALA": "LEE16",
+    "DISCIPLINA": "Controle e Servomecanismos III",
+    "TURMA": 2,
+    "DIA_DA_SEMANA": "qui",
+    "HORÁRIO_INICIAL": "08:50:00",
+    "HORÁRIO_FINAL": "10:30:00"
+  },
+  {
+    "PROFESSOR": "Marco Aurélio Botelho Da Silva",
+    "SALA": "5097F",
+    "DISCIPLINA": "Eletrônica I",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "10:40:00",
+    "HORÁRIO_FINAL": "12:20:00"
+  },
+  {
+    "PROFESSOR": "Marco Aurélio Botelho Da Silva",
+    "SALA": "LEE13",
+    "DISCIPLINA": "Eletrônica I",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "07:00:00",
+    "HORÁRIO_FINAL": "08:40:00"
+  },
+  {
+    "PROFESSOR": "Marco Aurélio Botelho Da Silva",
+    "SALA": "5097F",
+    "DISCIPLINA": "Eletrônica I",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "08:50:00",
+    "HORÁRIO_FINAL": "10:30:00"
+  },
+  {
+    "PROFESSOR": "Marco Aurélio Botelho Da Silva",
+    "SALA": "LEE13",
+    "DISCIPLINA": "Eletrônica I",
+    "TURMA": 2,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "08:50:00",
+    "HORÁRIO_FINAL": "10:30:00"
+  },
+  {
+    "PROFESSOR": "Marco Aurélio Botelho Da Silva",
+    "SALA": "5097F",
+    "DISCIPLINA": "Eletrônica I",
+    "TURMA": 2,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "10:40:00",
+    "HORÁRIO_FINAL": "12:20:00"
+  },
+  {
+    "PROFESSOR": "Marco Aurélio Botelho Da Silva",
+    "SALA": "5097F",
+    "DISCIPLINA": "Eletrônica I",
+    "TURMA": 2,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "08:50:00",
+    "HORÁRIO_FINAL": "10:30:00"
+  },
+  {
+    "PROFESSOR": "Evandro Mendes Da Silva",
+    "SALA": "5097F",
+    "DISCIPLINA": "Eletrônica I",
+    "TURMA": 3,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "08:50:00",
+    "HORÁRIO_FINAL": "10:30:00"
+  },
+  {
+    "PROFESSOR": "Evandro Mendes Da Silva",
+    "SALA": "LEE13",
+    "DISCIPLINA": "Eletrônica I",
+    "TURMA": 3,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "10:40:00",
+    "HORÁRIO_FINAL": "12:20:00"
+  },
+  {
+    "PROFESSOR": "Evandro Mendes Da Silva",
+    "SALA": "5098F",
+    "DISCIPLINA": "Eletrônica I",
+    "TURMA": 3,
+    "DIA_DA_SEMANA": "qui",
+    "HORÁRIO_INICIAL": "07:00:00",
+    "HORÁRIO_FINAL": "08:40:00"
+  },
+  {
+    "PROFESSOR": "Evandro Mendes Da Silva\nLisandro Lovisolo",
+    "SALA": "5097F",
+    "DISCIPLINA": "Eletrônica I",
+    "TURMA": 4,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "08:50:00",
+    "HORÁRIO_FINAL": "10:30:00"
+  },
+  {
+    "PROFESSOR": "Evandro Mendes Da Silva\nLisandro Lovisolo",
+    "SALA": "LEE10",
+    "DISCIPLINA": "Eletrônica I",
+    "TURMA": 4,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "08:50:00",
+    "HORÁRIO_FINAL": "10:30:00"
+  },
+  {
+    "PROFESSOR": "Evandro Mendes Da Silva\nLisandro Lovisolo",
+    "SALA": "5098F",
+    "DISCIPLINA": "Eletrônica I",
+    "TURMA": 4,
+    "DIA_DA_SEMANA": "qui",
+    "HORÁRIO_INICIAL": "07:00:00",
+    "HORÁRIO_FINAL": "08:40:00"
+  },
+  {
+    "PROFESSOR": "Flávio Alencar Do Rêgo Barros",
+    "SALA": "(LEE13 ou LEE18)",
+    "DISCIPLINA": "Eletrônica I",
+    "TURMA": 5,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "09:40:00",
+    "HORÁRIO_FINAL": "11:30:00"
+  },
+  {
+    "PROFESSOR": "Flávio Alencar Do Rêgo Barros",
+    "SALA": "LEE11J",
+    "DISCIPLINA": "Eletrônica I",
+    "TURMA": 5,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "11:30:00",
+    "HORÁRIO_FINAL": "13:20:00"
+  },
+  {
+    "PROFESSOR": "Flávio Alencar Do Rêgo Barros",
+    "SALA": "LEE11C",
+    "DISCIPLINA": "Eletrônica I",
+    "TURMA": 5,
+    "DIA_DA_SEMANA": "qua",
+    "HORÁRIO_INICIAL": "10:40:00",
+    "HORÁRIO_FINAL": "12:20:00"
+  },
+  {
+    "PROFESSOR": "Flávio Alencar Do Rêgo Barros",
+    "SALA": "LEE11J",
+    "DISCIPLINA": "Eletrônica I",
+    "TURMA": 6,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "11:30:00",
+    "HORÁRIO_FINAL": "13:20:00"
+  },
+  {
+    "PROFESSOR": "Flávio Alencar Do Rêgo Barros",
+    "SALA": "LEE11C",
+    "DISCIPLINA": "Eletrônica I",
+    "TURMA": 6,
+    "DIA_DA_SEMANA": "qua",
+    "HORÁRIO_INICIAL": "10:40:00",
+    "HORÁRIO_FINAL": "12:20:00"
+  },
+  {
+    "PROFESSOR": "Flávio Alencar Do Rêgo Barros",
+    "SALA": "(LEE13 ou LEE11J)",
+    "DISCIPLINA": "Eletrônica I",
+    "TURMA": 6,
+    "DIA_DA_SEMANA": "qui",
+    "HORÁRIO_INICIAL": "08:50:00",
+    "HORÁRIO_FINAL": "10:30:00"
+  },
+  {
+    "PROFESSOR": "Maria Dias Bellar",
+    "SALA": "LEE10",
+    "DISCIPLINA": "Eletrônica II",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "15:10:00",
+    "HORÁRIO_FINAL": "17:00:00"
+  },
+  {
+    "PROFESSOR": "Maria Dias Bellar",
+    "SALA": "LEE10",
+    "DISCIPLINA": "Eletrônica II",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "15:10:00",
+    "HORÁRIO_FINAL": "17:00:00"
+  },
+  {
+    "PROFESSOR": "Maria Dias Bellar",
+    "SALA": "LEE13",
+    "DISCIPLINA": "Eletrônica II",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "17:10:00",
+    "HORÁRIO_FINAL": "18:50:00"
+  },
+  {
+    "PROFESSOR": "Luís Fernando Corrêa Monteiro\nMarco Aurélio Botelho Da Silva",
+    "SALA": "5004F",
+    "DISCIPLINA": "Eletrônica II",
+    "TURMA": 2,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "15:10:00",
+    "HORÁRIO_FINAL": "17:00:00"
+  },
+  {
+    "PROFESSOR": "Luís Fernando Corrêa Monteiro\nMarco Aurélio Botelho Da Silva",
+    "SALA": "LEE10",
+    "DISCIPLINA": "Eletrônica II",
+    "TURMA": 2,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "17:10:00",
+    "HORÁRIO_FINAL": "18:50:00"
+  },
+  {
+    "PROFESSOR": "Luís Fernando Corrêa Monteiro\nMarco Aurélio Botelho Da Silva",
+    "SALA": "5002F",
+    "DISCIPLINA": "Eletrônica II",
+    "TURMA": 2,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "17:10:00",
+    "HORÁRIO_FINAL": "18:50:00"
+  },
+  {
+    "PROFESSOR": "Evandro Mendes Da Silva",
+    "SALA": "5088F",
+    "DISCIPLINA": "Eletrônica II",
+    "TURMA": 3,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "15:10:00",
+    "HORÁRIO_FINAL": "17:00:00"
+  },
+  {
+    "PROFESSOR": "Evandro Mendes Da Silva",
+    "SALA": "LEE13",
+    "DISCIPLINA": "Eletrônica II",
+    "TURMA": 3,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "17:10:00",
+    "HORÁRIO_FINAL": "18:50:00"
+  },
+  {
+    "PROFESSOR": "Evandro Mendes Da Silva",
+    "SALA": "5097F",
+    "DISCIPLINA": "Eletrônica II",
+    "TURMA": 3,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "17:10:00",
+    "HORÁRIO_FINAL": "18:50:00"
+  },
+  {
+    "PROFESSOR": "Evandro Mendes Da Silva",
+    "SALA": "5088F",
+    "DISCIPLINA": "Eletrônica II",
+    "TURMA": 4,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "15:10:00",
+    "HORÁRIO_FINAL": "17:00:00"
+  },
+  {
+    "PROFESSOR": "Evandro Mendes Da Silva",
+    "SALA": "5097F",
+    "DISCIPLINA": "Eletrônica II",
+    "TURMA": 4,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "17:10:00",
+    "HORÁRIO_FINAL": "18:50:00"
+  },
+  {
+    "PROFESSOR": "Evandro Mendes Da Silva",
+    "SALA": "LEE13",
+    "DISCIPLINA": "Eletrônica II",
+    "TURMA": 4,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "18:50:00",
+    "HORÁRIO_FINAL": "20:30:00"
+  },
+  {
+    "PROFESSOR": "Aluisio Alves De Melo Bento",
+    "SALA": "LEE11J",
+    "DISCIPLINA": "Eletrônica II",
+    "TURMA": 5,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "12:30:00",
+    "HORÁRIO_FINAL": "14:10:00"
+  },
+  {
+    "PROFESSOR": "Aluisio Alves De Melo Bento",
+    "SALA": "LEE11J",
+    "DISCIPLINA": "Eletrônica II",
+    "TURMA": 5,
+    "DIA_DA_SEMANA": "qua",
+    "HORÁRIO_INICIAL": "13:20:00",
+    "HORÁRIO_FINAL": "15:10:00"
+  },
+  {
+    "PROFESSOR": "Aluisio Alves De Melo Bento",
+    "SALA": "(LEE13 ou LEE11J)",
+    "DISCIPLINA": "Eletrônica II",
+    "TURMA": 5,
+    "DIA_DA_SEMANA": "qua",
+    "HORÁRIO_INICIAL": "15:10:00",
+    "HORÁRIO_FINAL": "17:00:00"
+  },
+  {
+    "PROFESSOR": "Michel Pompeu Tcheou\nPaulo Bulkool Batalheiro",
+    "SALA": "LEE11C",
+    "DISCIPLINA": "Eletrônica III",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "qui",
+    "HORÁRIO_INICIAL": "11:30:00",
+    "HORÁRIO_FINAL": "13:20:00"
+  },
+  {
+    "PROFESSOR": "Michel Pompeu Tcheou\nPaulo Bulkool Batalheiro",
+    "SALA": "LEE11C",
+    "DISCIPLINA": "Eletrônica III",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "07:00:00",
+    "HORÁRIO_FINAL": "08:40:00"
+  },
+  {
+    "PROFESSOR": "Michel Pompeu Tcheou\nPaulo Bulkool Batalheiro",
+    "SALA": "LEE13",
+    "DISCIPLINA": "Eletrônica III",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "08:50:00",
+    "HORÁRIO_FINAL": "10:30:00"
+  },
+  {
+    "PROFESSOR": "Luís Fernando Corrêa Monteiro\nPaulo Sérgio Rodrigues Alonso",
+    "SALA": "LEE18",
+    "DISCIPLINA": "Eletrônica Industrial I",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "10:40:00",
+    "HORÁRIO_FINAL": "12:20:00"
+  },
+  {
+    "PROFESSOR": "Luís Fernando Corrêa Monteiro\nPaulo Sérgio Rodrigues Alonso",
+    "SALA": "LEE10",
+    "DISCIPLINA": "Eletrônica Industrial I",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "11:30:00",
+    "HORÁRIO_FINAL": "13:20:00"
+  },
+  {
+    "PROFESSOR": "Luís Fernando Corrêa Monteiro\nPaulo Sérgio Rodrigues Alonso",
+    "SALA": "LEE10",
+    "DISCIPLINA": "Eletrônica Industrial I",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "qui",
+    "HORÁRIO_INICIAL": "11:30:00",
+    "HORÁRIO_FINAL": "13:20:00"
+  },
+  {
+    "PROFESSOR": "Aluisio Alves De Melo Bento",
+    "SALA": "5004F",
+    "DISCIPLINA": "Eletrônica Industrial I",
+    "TURMA": 2,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "09:40:00",
+    "HORÁRIO_FINAL": "11:30:00"
+  },
+  {
+    "PROFESSOR": "Aluisio Alves De Melo Bento",
+    "SALA": "5004F",
+    "DISCIPLINA": "Eletrônica Industrial I",
+    "TURMA": 2,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "08:50:00",
+    "HORÁRIO_FINAL": "10:30:00"
+  },
+  {
+    "PROFESSOR": "Aluisio Alves De Melo Bento",
+    "SALA": "(LEE10 ou LEE11J)",
+    "DISCIPLINA": "Eletrônica Industrial I",
+    "TURMA": 2,
+    "DIA_DA_SEMANA": "qua",
+    "HORÁRIO_INICIAL": "09:40:00",
+    "HORÁRIO_FINAL": "11:30:00"
+  },
+  {
+    "PROFESSOR": "Maria Dias Bellar",
+    "SALA": "LEE12",
+    "DISCIPLINA": "Eletrônica Industrial I",
+    "TURMA": 3,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "09:40:00",
+    "HORÁRIO_FINAL": "11:30:00"
+  },
+  {
+    "PROFESSOR": "Maria Dias Bellar",
+    "SALA": "LEE12",
+    "DISCIPLINA": "Eletrônica Industrial I",
+    "TURMA": 3,
+    "DIA_DA_SEMANA": "qua",
+    "HORÁRIO_INICIAL": "09:40:00",
+    "HORÁRIO_FINAL": "11:30:00"
+  },
+  {
+    "PROFESSOR": "Maria Dias Bellar",
+    "SALA": "(LEE10 ou LEE11J)",
+    "DISCIPLINA": "Eletrônica Industrial I",
+    "TURMA": 3,
+    "DIA_DA_SEMANA": "qua",
+    "HORÁRIO_INICIAL": "11:30:00",
+    "HORÁRIO_FINAL": "13:20:00"
+  },
+  {
+    "PROFESSOR": "Frederico Celestino Pontes",
+    "SALA": "LEE18",
+    "DISCIPLINA": "Eletrônica IV",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "qua",
+    "HORÁRIO_INICIAL": "13:20:00",
+    "HORÁRIO_FINAL": "15:10:00"
+  },
+  {
+    "PROFESSOR": "Frederico Celestino Pontes",
+    "SALA": "LEE11J",
+    "DISCIPLINA": "Eletrônica IV",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "13:20:00",
+    "HORÁRIO_FINAL": "15:10:00"
+  },
+  {
+    "PROFESSOR": "Frederico Celestino Pontes",
+    "SALA": "LEE13",
+    "DISCIPLINA": "Eletrônica IV",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "15:10:00",
+    "HORÁRIO_FINAL": "17:00:00"
+  },
+  {
+    "PROFESSOR": "Paulo Sérgio Rodrigues Alonso",
+    "SALA": "(LEE18 ou LEE13)",
+    "DISCIPLINA": "Eletrônica V",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "qua",
+    "HORÁRIO_INICIAL": "09:40:00",
+    "HORÁRIO_FINAL": "11:30:00"
+  },
+  {
+    "PROFESSOR": "Paulo Sérgio Rodrigues Alonso",
+    "SALA": "LEE10",
+    "DISCIPLINA": "Eletrônica V",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "qui",
+    "HORÁRIO_INICIAL": "08:50:00",
+    "HORÁRIO_FINAL": "11:30:00"
+  },
+  {
+    "PROFESSOR": "Lisandro Lovisolo",
+    "SALA": "",
+    "DISCIPLINA": "Estágio Superv VII",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "qui",
+    "HORÁRIO_INICIAL": "07:00:00",
+    "HORÁRIO_FINAL": "08:40:00"
+  },
+  {
+    "PROFESSOR": "Ian Vilar Bastos",
+    "SALA": "",
+    "DISCIPLINA": "Estágio Superv VIII",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "qua",
+    "HORÁRIO_INICIAL": "18:50:00",
+    "HORÁRIO_FINAL": "20:30:00"
+  },
+  {
+    "PROFESSOR": "Alexandre De Oliveira Dal Forno",
+    "SALA": "5088F",
+    "DISCIPLINA": "Fibras Óticas e Dispositivos",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "18:50:00",
+    "HORÁRIO_FINAL": "20:30:00"
+  },
+  {
+    "PROFESSOR": "Alexandre De Oliveira Dal Forno",
+    "SALA": "5088F",
+    "DISCIPLINA": "Fibras Óticas e Dispositivos",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "19:40:00",
+    "HORÁRIO_FINAL": "21:20:00"
+  },
+  {
+    "PROFESSOR": "Frederico Celestino Pontes",
+    "SALA": "LEE11J",
+    "DISCIPLINA": "Microeletrônica",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "13:20:00",
+    "HORÁRIO_FINAL": "16:00:00"
+  },
+  {
+    "PROFESSOR": "Frederico Celestino Pontes",
+    "SALA": "LEE18",
+    "DISCIPLINA": "Microeletrônica",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "qua",
+    "HORÁRIO_INICIAL": "15:10:00",
+    "HORÁRIO_FINAL": "17:00:00"
+  },
+  {
+    "PROFESSOR": "Hélio Da Motta Filho",
+    "SALA": "5092F",
+    "DISCIPLINA": "Microondas I",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "qua",
+    "HORÁRIO_INICIAL": "18:00:00",
+    "HORÁRIO_FINAL": "19:40:00"
+  },
+  {
+    "PROFESSOR": "Hélio Da Motta Filho",
+    "SALA": "5088F",
+    "DISCIPLINA": "Microondas I",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "qui",
+    "HORÁRIO_INICIAL": "18:00:00",
+    "HORÁRIO_FINAL": "20:30:00"
+  },
+  {
+    "PROFESSOR": "Alexandre De Oliveira Dal Forno",
+    "SALA": "5004F",
+    "DISCIPLINA": "Microondas II",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "07:00:00",
+    "HORÁRIO_FINAL": "09:40:00"
+  },
+  {
+    "PROFESSOR": "Alexandre De Oliveira Dal Forno",
+    "SALA": "5097F",
+    "DISCIPLINA": "Microondas II",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "07:00:00",
+    "HORÁRIO_FINAL": "08:40:00"
+  },
+  {
+    "PROFESSOR": "José Franco Machado Do Amaral",
+    "SALA": "LEE12",
+    "DISCIPLINA": "Microprocessadores",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "07:00:00",
+    "HORÁRIO_FINAL": "08:40:00"
+  },
+  {
+    "PROFESSOR": "José Franco Machado Do Amaral",
+    "SALA": "LEE12",
+    "DISCIPLINA": "Microprocessadores",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "qua",
+    "HORÁRIO_INICIAL": "07:00:00",
+    "HORÁRIO_FINAL": "09:40:00"
+  },
+  {
+    "PROFESSOR": "José Rodolfo Souza",
+    "SALA": "5008F",
+    "DISCIPLINA": "Modelos Mat aplic à Eng Elétrica I",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "10:40:00",
+    "HORÁRIO_FINAL": "13:20:00"
+  },
+  {
+    "PROFESSOR": "José Rodolfo Souza",
+    "SALA": "5050F",
+    "DISCIPLINA": "Modelos Mat aplic à Eng Elétrica I",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "qui",
+    "HORÁRIO_INICIAL": "08:50:00",
+    "HORÁRIO_FINAL": "10:30:00"
+  },
+  {
+    "PROFESSOR": "José Rodolfo Souza",
+    "SALA": "5008F",
+    "DISCIPLINA": "Modelos Mat aplic à Eng Elétrica I",
+    "TURMA": 2,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "10:40:00",
+    "HORÁRIO_FINAL": "13:20:00"
+  },
+  {
+    "PROFESSOR": "José Rodolfo Souza",
+    "SALA": "5050F",
+    "DISCIPLINA": "Modelos Mat aplic à Eng Elétrica I",
+    "TURMA": 2,
+    "DIA_DA_SEMANA": "qui",
+    "HORÁRIO_INICIAL": "08:50:00",
+    "HORÁRIO_FINAL": "10:30:00"
+  },
+  {
+    "PROFESSOR": "Victor Hugo Pereira Rodrigues",
+    "SALA": "4027B",
+    "DISCIPLINA": "Modelos Mat aplic à Eng Elétrica I",
+    "TURMA": 3,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "10:40:00",
+    "HORÁRIO_FINAL": "13:20:00"
+  },
+  {
+    "PROFESSOR": "Victor Hugo Pereira Rodrigues",
+    "SALA": "5098F",
+    "DISCIPLINA": "Modelos Mat aplic à Eng Elétrica I",
+    "TURMA": 3,
+    "DIA_DA_SEMANA": "qui",
+    "HORÁRIO_INICIAL": "08:50:00",
+    "HORÁRIO_FINAL": "10:30:00"
+  },
+  {
+    "PROFESSOR": "Fernando Lopes Cardoso",
+    "SALA": "5004F",
+    "DISCIPLINA": "Modelos Mat aplic à Eng Elétrica I",
+    "TURMA": 4,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "10:40:00",
+    "HORÁRIO_FINAL": "13:20:00"
+  },
+  {
+    "PROFESSOR": "Fernando Lopes Cardoso",
+    "SALA": "5004F",
+    "DISCIPLINA": "Modelos Mat aplic à Eng Elétrica I",
+    "TURMA": 4,
+    "DIA_DA_SEMANA": "qui",
+    "HORÁRIO_INICIAL": "08:50:00",
+    "HORÁRIO_FINAL": "10:30:00"
+  },
+  {
+    "PROFESSOR": "Pedro Henrique Silva Coutinho",
+    "SALA": "5098F",
+    "DISCIPLINA": "Modelos Mat aplic à Eng Elétrica II",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "13:20:00",
+    "HORÁRIO_FINAL": "15:10:00"
+  },
+  {
+    "PROFESSOR": "Pedro Henrique Silva Coutinho",
+    "SALA": "5098F",
+    "DISCIPLINA": "Modelos Mat aplic à Eng Elétrica II",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "qua",
+    "HORÁRIO_INICIAL": "17:10:00",
+    "HORÁRIO_FINAL": "19:40:00"
+  },
+  {
+    "PROFESSOR": "Valmir Dos Santos Nogueira Junior",
+    "SALA": "5088F",
+    "DISCIPLINA": "Modelos Mat aplic à Eng Elétrica II",
+    "TURMA": 2,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "13:20:00",
+    "HORÁRIO_FINAL": "15:10:00"
+  },
+  {
+    "PROFESSOR": "Valmir Dos Santos Nogueira Junior",
+    "SALA": "5097F",
+    "DISCIPLINA": "Modelos Mat aplic à Eng Elétrica II",
+    "TURMA": 2,
+    "DIA_DA_SEMANA": "qua",
+    "HORÁRIO_INICIAL": "17:10:00",
+    "HORÁRIO_FINAL": "19:40:00"
+  },
+  {
+    "PROFESSOR": "Victor Hugo Pereira Rodrigues",
+    "SALA": "5050F",
+    "DISCIPLINA": "Modelos Mat aplic à Eng Elétrica III",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "07:50:00",
+    "HORÁRIO_FINAL": "09:40:00"
+  },
+  {
+    "PROFESSOR": "Victor Hugo Pereira Rodrigues",
+    "SALA": "5050F",
+    "DISCIPLINA": "Modelos Mat aplic à Eng Elétrica III",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "10:40:00",
+    "HORÁRIO_FINAL": "13:20:00"
+  },
+  {
+    "PROFESSOR": "Fernando Lopes Cardoso",
+    "SALA": "4027B",
+    "DISCIPLINA": "Modelos Mat aplic à Eng Elétrica III",
+    "TURMA": 2,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "07:50:00",
+    "HORÁRIO_FINAL": "09:40:00"
+  },
+  {
+    "PROFESSOR": "Fernando Lopes Cardoso",
+    "SALA": "4027B",
+    "DISCIPLINA": "Modelos Mat aplic à Eng Elétrica III",
+    "TURMA": 2,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "10:40:00",
+    "HORÁRIO_FINAL": "13:20:00"
+  },
+  {
+    "PROFESSOR": "Christian Fragoas Fernandez Rodrigues",
+    "SALA": "LEE15",
+    "DISCIPLINA": "Modelos Probabilísticos em Telecom",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "18:00:00",
+    "HORÁRIO_FINAL": "19:40:00"
+  },
+  {
+    "PROFESSOR": "Christian Fragoas Fernandez Rodrigues",
+    "SALA": "LEE10",
+    "DISCIPLINA": "Modelos Probabilísticos em Telecom",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "qua",
+    "HORÁRIO_INICIAL": "15:10:00",
+    "HORÁRIO_FINAL": "18:00:00"
+  },
+  {
+    "PROFESSOR": "Christian Fragoas Fernandez Rodrigues",
+    "SALA": "LEE15",
+    "DISCIPLINA": "Princípios de Telecom I",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "qua",
+    "HORÁRIO_INICIAL": "09:40:00",
+    "HORÁRIO_FINAL": "11:30:00"
+  },
+  {
+    "PROFESSOR": "Christian Fragoas Fernandez Rodrigues",
+    "SALA": "LEE15",
+    "DISCIPLINA": "Princípios de Telecom I",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "10:40:00",
+    "HORÁRIO_FINAL": "13:20:00"
+  },
+  {
+    "PROFESSOR": "Valmir Dos Santos Nogueira Junior",
+    "SALA": "LEE11C",
+    "DISCIPLINA": "Princípios de Telecom II",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "17:10:00",
+    "HORÁRIO_FINAL": "19:40:00"
+  },
+  {
+    "PROFESSOR": "Valmir Dos Santos Nogueira Junior",
+    "SALA": "LEE11C",
+    "DISCIPLINA": "Princípios de Telecom II",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "16:10:00",
+    "HORÁRIO_FINAL": "18:00:00"
+  },
+  {
+    "PROFESSOR": "Gil Roberto Vieira Pinheiro",
+    "SALA": "LEE11C",
+    "DISCIPLINA": "Princípios de Telecom III",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "10:40:00",
+    "HORÁRIO_FINAL": "13:20:00"
+  },
+  {
+    "PROFESSOR": "Gil Roberto Vieira Pinheiro",
+    "SALA": "LEE18",
+    "DISCIPLINA": "Princípios de Telecom III",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "qui",
+    "HORÁRIO_INICIAL": "11:30:00",
+    "HORÁRIO_FINAL": "13:20:00"
+  },
+  {
+    "PROFESSOR": "Paulo Sérgio Rodrigues Alonso",
+    "SALA": "",
+    "DISCIPLINA": "Projeto de Graduação VII-A",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "12:30:00",
+    "HORÁRIO_FINAL": "13:20:00"
+  },
+  {
+    "PROFESSOR": "Paulo Sérgio Rodrigues Alonso",
+    "SALA": "",
+    "DISCIPLINA": "Projeto de Graduação VII-B",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "18:00:00",
+    "HORÁRIO_FINAL": "19:40:00"
+  },
+  {
+    "PROFESSOR": "Paulo Sérgio Rodrigues Alonso",
+    "SALA": "",
+    "DISCIPLINA": "Projeto de Graduação VII-B",
+    "TURMA": 2,
+    "DIA_DA_SEMANA": "qui",
+    "HORÁRIO_INICIAL": "18:00:00",
+    "HORÁRIO_FINAL": "19:40:00"
+  },
+  {
+    "PROFESSOR": "Alexandre De Oliveira Dal Forno",
+    "SALA": "",
+    "DISCIPLINA": "Projeto de Graduação VIII-A",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "20:30:00",
+    "HORÁRIO_FINAL": "21:20:00"
+  },
+  {
+    "PROFESSOR": "José Rodolfo Souza",
+    "SALA": "",
+    "DISCIPLINA": "Projeto de Graduação VIII-B",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "17:10:00",
+    "HORÁRIO_FINAL": "18:50:00"
+  },
+  {
+    "PROFESSOR": "Ian Vilar Bastos",
+    "SALA": "LEE11C",
+    "DISCIPLINA": "Redes de Comunicações I",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "qua",
+    "HORÁRIO_INICIAL": "16:10:00",
+    "HORÁRIO_FINAL": "18:50:00"
+  },
+  {
+    "PROFESSOR": "Ian Vilar Bastos",
+    "SALA": "LEE11C",
+    "DISCIPLINA": "Redes de Comunicações I",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "qui",
+    "HORÁRIO_INICIAL": "18:00:00",
+    "HORÁRIO_FINAL": "19:40:00"
+  },
+  {
+    "PROFESSOR": "Flávio Alencar Do Rêgo Barros",
+    "SALA": "LEE11C",
+    "DISCIPLINA": "Redes de Comunicações II",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "18:00:00",
+    "HORÁRIO_FINAL": "19:40:00"
+  },
+  {
+    "PROFESSOR": "Flávio Alencar Do Rêgo Barros",
+    "SALA": "LEE11J",
+    "DISCIPLINA": "Redes de Comunicações II",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "qua",
+    "HORÁRIO_INICIAL": "17:10:00",
+    "HORÁRIO_FINAL": "18:50:00"
+  },
+  {
+    "PROFESSOR": "Paulo Bulkool Batalheiro",
+    "SALA": "LEE11J",
+    "DISCIPLINA": "Síntese e Filtros",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "13:20:00",
+    "HORÁRIO_FINAL": "15:10:00"
+  },
+  {
+    "PROFESSOR": "Paulo Bulkool Batalheiro",
+    "SALA": "LEE11J",
+    "DISCIPLINA": "Síntese e Filtros",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "15:10:00",
+    "HORÁRIO_FINAL": "18:00:00"
+  },
+  {
+    "PROFESSOR": "Christian Fragoas Fernandez Rodrigues",
+    "SALA": "LEE15",
+    "DISCIPLINA": "Sistemas de Telecomunicações I",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "14:20:00",
+    "HORÁRIO_FINAL": "16:00:00"
+  },
+  {
+    "PROFESSOR": "Christian Fragoas Fernandez Rodrigues",
+    "SALA": "LEE15",
+    "DISCIPLINA": "Sistemas de Telecomunicações I",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "15:10:00",
+    "HORÁRIO_FINAL": "17:00:00"
+  },
+  {
+    "PROFESSOR": "Valmir Dos Santos Nogueira Junior",
+    "SALA": "LEE11C",
+    "DISCIPLINA": "Sistemas de Telecomunicações II",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "qua",
+    "HORÁRIO_INICIAL": "19:40:00",
+    "HORÁRIO_FINAL": "21:20:00"
+  },
+  {
+    "PROFESSOR": "Valmir Dos Santos Nogueira Junior",
+    "SALA": "LEE11C",
+    "DISCIPLINA": "Sistemas de Telecomunicações II",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "18:00:00",
+    "HORÁRIO_FINAL": "20:30:00"
+  },
+  {
+    "PROFESSOR": "Michel Pompeu Tcheou",
+    "SALA": "LEE15",
+    "DISCIPLINA": "Sistemas de Televisão",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "13:20:00",
+    "HORÁRIO_FINAL": "16:00:00"
+  },
+  {
+    "PROFESSOR": "Michel Pompeu Tcheou",
+    "SALA": "LEE15",
+    "DISCIPLINA": "Sistemas de Televisão",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "qua",
+    "HORÁRIO_INICIAL": "15:10:00",
+    "HORÁRIO_FINAL": "17:00:00"
+  },
+  {
+    "PROFESSOR": "Aluisio Alves De Melo Bento",
+    "SALA": "LEE18",
+    "DISCIPLINA": "Tópicos Esp em Eletrônica",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "16:10:00",
+    "HORÁRIO_FINAL": "18:00:00"
+  },
+  {
+    "PROFESSOR": "Aluisio Alves De Melo Bento",
+    "SALA": "LEE18",
+    "DISCIPLINA": "Tópicos Esp em Eletrônica",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "13:20:00",
+    "HORÁRIO_FINAL": "16:00:00"
+  },
+  {
+    "PROFESSOR": "Frederico Celestino Pontes",
+    "SALA": "LEE13",
+    "DISCIPLINA": "Técnicas de Pulso",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "07:00:00",
+    "HORÁRIO_FINAL": "08:40:00"
+  },
+  {
+    "PROFESSOR": "Frederico Celestino Pontes",
+    "SALA": "LEE11J",
+    "DISCIPLINA": "Técnicas de Pulso",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "07:50:00",
+    "HORÁRIO_FINAL": "10:30:00"
+  },
+  {
+    "PROFESSOR": "Flávio Alencar Do Rêgo Barros",
+    "SALA": "LEE18",
+    "DISCIPLINA": "Técnicas Digitais I",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "qua",
+    "HORÁRIO_INICIAL": "07:00:00",
+    "HORÁRIO_FINAL": "09:40:00"
+  },
+  {
+    "PROFESSOR": "Flávio Alencar Do Rêgo Barros",
+    "SALA": "(LEE11J ou LEE12)",
+    "DISCIPLINA": "Técnicas Digitais I",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "qui",
+    "HORÁRIO_INICIAL": "07:00:00",
+    "HORÁRIO_FINAL": "08:40:00"
+  },
+  {
+    "PROFESSOR": "Hélio Da Motta Filho\nPaulo Bulkool Batalheiro",
+    "SALA": "5024F",
+    "DISCIPLINA": "Técnicas Digitais I",
+    "TURMA": 3,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "18:00:00",
+    "HORÁRIO_FINAL": "20:30:00"
+  },
+  {
+    "PROFESSOR": "Hélio Da Motta Filho\nPaulo Bulkool Batalheiro",
+    "SALA": "(LEE11J ou LEE12)",
+    "DISCIPLINA": "Técnicas Digitais I",
+    "TURMA": 3,
+    "DIA_DA_SEMANA": "ter",
+    "HORÁRIO_INICIAL": "18:00:00",
+    "HORÁRIO_FINAL": "19:40:00"
+  },
+  {
+    "PROFESSOR": "Jorge Luís Machado Do Amaral",
+    "SALA": "LEE12",
+    "DISCIPLINA": "Técnicas Digitais II",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "16:10:00",
+    "HORÁRIO_FINAL": "18:50:00"
+  },
+  {
+    "PROFESSOR": "Jorge Luís Machado Do Amaral",
+    "SALA": "LEE12",
+    "DISCIPLINA": "Técnicas Digitais II",
+    "TURMA": 1,
+    "DIA_DA_SEMANA": "qui",
+    "HORÁRIO_INICIAL": "16:10:00",
+    "HORÁRIO_FINAL": "18:00:00"
+  },
+  {
+    "PROFESSOR": "Jorge Luís Machado Do Amaral",
+    "SALA": "LEE12",
+    "DISCIPLINA": "Técnicas Digitais II",
+    "TURMA": 2,
+    "DIA_DA_SEMANA": "seg",
+    "HORÁRIO_INICIAL": "16:10:00",
+    "HORÁRIO_FINAL": "18:50:00"
+  },
+  {
+    "PROFESSOR": "Jorge Luís Machado Do Amaral",
+    "SALA": "LEE12",
+    "DISCIPLINA": "Técnicas Digitais II",
+    "TURMA": 2,
+    "DIA_DA_SEMANA": "qui",
+    "HORÁRIO_INICIAL": "14:20:00",
+    "HORÁRIO_FINAL": "16:00:00"
+  },
+  {
+    "PROFESSOR": "Marcelo Gonçalves Rubinstein",
+    "SALA": "4024B",
+    "DISCIPLINA": "Técnicas Digitais II",
+    "TURMA": 3,
+    "DIA_DA_SEMANA": "qui",
+    "HORÁRIO_INICIAL": "08:50:00",
+    "HORÁRIO_FINAL": "11:30:00"
+  },
+  {
+    "PROFESSOR": "Marcelo Gonçalves Rubinstein",
+    "SALA": "LEE13",
+    "DISCIPLINA": "Técnicas Digitais II",
+    "TURMA": 3,
+    "DIA_DA_SEMANA": "sex",
+    "HORÁRIO_INICIAL": "11:30:00",
+    "HORÁRIO_FINAL": "13:20:00"
+  }
+]
