@@ -95,20 +95,20 @@ body {
   flex: 1;
   display: flex;
   flex-direction: row;
-  padding: 3vh 3vw;
-  gap: 2vw; /* Espaço entre a tabela e o banner */
+  padding: 1.5vh 1.5vw; /* Diminuiu o buraco em cima e embaixo (Header e Footer) */
+  gap: 1vw; /* Diminuiu o espaço entre a tabela e o banner */
   overflow: hidden;
 }
 
 .main-content {
-  flex: 7; /* Tabela fica com 70% da largura */
+  flex: 7.2; /* Tabela continua grande e espaçosa */
   display: flex;
   flex-direction: column;
   overflow: hidden;
 }
 
 .sidebar-wrapper {
-  flex: 3; /* Banner fica com 30% da largura */
+  flex: 2.8; 
   display: flex;
   flex-direction: column;
   overflow: hidden;
@@ -123,15 +123,15 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 10px; /* Borda branca estilosa ao redor do post */
+  padding: 0; /* Removeu o excesso de fundo branco no topo/base da foto! */
   overflow: hidden;
 }
 
 .sidebar-banner {
   width: 100%;
   height: 100%;
-  object-fit: contain; /* A arte de Instagram não será distorcida! */
-  border-radius: 16px;
+  object-fit: contain; 
+  border-radius: 24px;
 }
 
 /* --- TABELA --- */
@@ -167,10 +167,18 @@ body {
   box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);
 }
 
+/* LARGURA FIXA DAS COLUNAS (Dá mais espaço para Disciplina e Professor) */
+#schedule-table th:nth-child(1) { width: 30%; } /* Disciplina */
+#schedule-table th:nth-child(2) { width: 10%; } /* Sala */
+#schedule-table th:nth-child(3) { width: 28%; } /* Professor */
+#schedule-table th:nth-child(4) { width: 8%; }  /* Turma */
+#schedule-table th:nth-child(5) { width: 12%; } /* Início */
+#schedule-table th:nth-child(6) { width: 12%; } /* Final */
+
 #schedule-table th {
-  padding: 3vh 1.5vw;
+  padding: 2.5vh 1.5vw;
   text-align: left;
-  font-size: clamp(0.7rem, 0.8vw, 1.1rem); /* Fonte um tiquinho menor para caber na nova proporção */
+  font-size: clamp(0.7rem, 0.8vw, 1rem); 
   font-weight: 800;
   color: var(--text-light);
   text-transform: uppercase;
@@ -205,14 +213,13 @@ body {
 #schedule-table tbody tr:nth-child(even) { background-color: #f8fafc; }
 
 #schedule-table td {
-  padding: 2.5vh 1.5vw;
-  font-size: clamp(0.8rem, 1vw, 1.3rem);
+  padding: 1.5vh 1.5vw; /* Diminuiu um pouco para caber 2 linhas sem espremer */
+  font-size: clamp(0.85rem, 1vw, 1.2rem);
   font-weight: 600;
   color: var(--text-main);
   border-bottom: 1px solid #f1f5f9;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
+  line-height: 1.3; /* Espaço entre as linhas do texto quebrado */
+  /* Removemos o 'white-space: nowrap' e o 'ellipsis' que causava os 3 pontinhos (...) */
 }
 
 #schedule-table td:nth-child(4),
@@ -221,7 +228,7 @@ body {
   font-family: 'Space Mono', monospace;
   color: var(--uerj-blue);
   font-weight: 700;
-  font-size: clamp(0.9rem, 1.1vw, 1.4rem);
+  font-size: clamp(0.9rem, 1.1vw, 1.3rem);
 }
 
 #schedule-table td:nth-child(2) {
@@ -234,7 +241,7 @@ body {
   background: rgba(30, 58, 95, 0.85);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
-  padding: 0.5vh 1vw; /* Espaçamento mínimo na vertical */
+  padding: 0.2vh 1vw; /* Espaçamento quase invisível */
   display: flex;
   justify-content: center;
   align-items: center;

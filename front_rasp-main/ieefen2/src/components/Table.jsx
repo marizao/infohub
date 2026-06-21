@@ -5,8 +5,6 @@ const Table = () => {
   const [data, setData] = useState([]);
   const [startIndex, setStartIndex] = useState(0);
   const [currentTimeNow, setCurrentTimeNow] = useState(new Date()); 
-  
-  // NOVO: Começamos com um valor seguro, mas a TV vai calcular isso sozinha.
   const [itemsPerPage, setItemsPerPage] = useState(8); 
   const updateInterval = 15000; 
 
@@ -18,32 +16,22 @@ const Table = () => {
     return () => clearInterval(timeInterval);
   }, []);
 
-  // 2. NOVO: Detetive de Tamanho de Tela (Auto-Scale)
+  // 2. Detetive de Tamanho de Tela (Ajustado para texto duplo)
   useEffect(() => {
     const adjustTableSize = () => {
-      // Pega a altura real da TV em pixels
       const screenHeight = window.innerHeight;
+      const availableHeightForRows = screenHeight - 300; // Reduzi a margem de segurança pois o CSS diminuiu os buracos
       
-      // LÓGICA:
-      // O Cabeçalho, o Rodapé e as margens azuis ocupam cerca de 350px.
-      // O espaço que sobra é exclusivamente para as linhas de aula.
-      const availableHeightForRows = screenHeight - 350; 
+      // Aumentamos o divisor para 85px porque o texto agora pode quebrar em 2 linhas!
+      let calculatedRows = Math.floor(availableHeightForRows / 85);
       
-      // Uma linha nossa tem em média de 70px de altura.
-      // Dividimos o espaço que sobrou por 70 para ver quantas linhas cabem exatas!
-      let calculatedRows = Math.floor(availableHeightForRows / 70);
-      
-      // Travas de segurança: Nunca mostrar menos que 4 aulas e nunca mais de 14.
       if (calculatedRows < 4) calculatedRows = 4;
-      if (calculatedRows > 14) calculatedRows = 14;
+      if (calculatedRows > 12) calculatedRows = 12;
 
       setItemsPerPage(calculatedRows);
     };
 
-    // Calcula imediatamente assim que a página carrega
     adjustTableSize(); 
-    
-    // Se por acaso alguém redimensionar a tela, ele recalcula sozinho
     window.addEventListener("resize", adjustTableSize); 
     return () => window.removeEventListener("resize", adjustTableSize);
   }, []);
@@ -58,7 +46,7 @@ const Table = () => {
         .get(JSON_API_URL)
         .then((res) => setData(res.data))
         .catch((err) => {
-          console.error("Modo offline: Falha ao atualizar horários. Mantendo dados antigos.", err);
+          console.error("Falha ao atualizar horários.", err);
         });
     };
 
@@ -67,34 +55,10 @@ const Table = () => {
     return () => clearInterval(fetchInterval);
   }, []);
 
-  // // 4. Lógica de Filtro
-  // const dayName = ["domingo", "seg", "ter", "qua", "qui", "sex", "sábado"];
-  // const today = dayName[currentTimeNow.getDay()];
-  // const currentHour = currentTimeNow.getHours();
-  // const currentMinute = currentTimeNow.getMinutes();
-
-  // const filteredData = data.filter((user) => {
-  //   if (!user["HORÁRIO_INICIAL"] || !user["HORÁRIO_FINAL"]) return false;
-
-  //   const [startHour, startMinute] = user["HORÁRIO_INICIAL"].split(":").map(Number);
-  //   const [endHour, endMinute] = user["HORÁRIO_FINAL"].split(":").map(Number);
-
-  //   const startTime = startHour * 60 + startMinute;
-  //   const endTime = endHour * 60 + endMinute;
-  //   const currentTime = currentHour * 60 + currentMinute;
-
-  //   return (
-  //     user["DIA_DA_SEMANA"]?.trim().toLowerCase() === today &&
-  //     currentTime >= startTime - 300 &&
-  //     currentTime < endTime
-  //   );
-  // });
-
-  // 4. Lógica de Filtro (TEMPORARIAMENTE DESLIGADA PARA TESTE DE LAYOUT)
+  // 4. Lógica de Filtro (DESLIGADA PARA O SEU TESTE, LIGUE DEPOIS)
   const filteredData = data.filter((user) => {
-    // Apenas verifica se a aula tem um horário válido e manda exibir tudo!
     if (!user["HORÁRIO_INICIAL"] || !user["HORÁRIO_FINAL"]) return false;
-    return true; 
+    return true; // <--- Mude isso depois para voltar a filtrar por hora!
   });
 
   filteredData.sort((a, b) => {
@@ -105,7 +69,7 @@ const Table = () => {
     return 0;
   });
 
-  // 5. Paginação adaptada para o número dinâmico
+  // 5. Paginação
   useEffect(() => {
     const interval = setInterval(() => {
       setStartIndex((prev) => {
@@ -153,8 +117,9 @@ const Table = () => {
                 <td>{user.SALA}</td>
                 <td>{user.PROFESSOR}</td>
                 <td align="center">{user["TURMA"]}</td>
-                <td align="center">{user["HORÁRIO_INICIAL"]}</td>
-                <td align="center">{user["HORÁRIO_FINAL"]}</td>
+                {/* A MÁGICA DOS SEGUNDOS: O .substring(0,5) corta os segundos fora! */}
+                <td align="center">{user["HORÁRIO_INICIAL"]?.substring(0, 5)}</td>
+                <td align="center">{user["HORÁRIO_FINAL"]?.substring(0, 5)}</td>
               </tr>
             ))}
           </tbody>
