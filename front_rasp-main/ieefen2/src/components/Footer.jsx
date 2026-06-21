@@ -5,15 +5,17 @@ const Footer = () => {
   const [currentBannerIndex, setCurrentBannerIndex] = useState(0);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
+  
+  // Caminho relativo para pegar os banners locais na TV
+  const JSON_API_URL2 = "/banners.json"; 
 
   useEffect(() => {
     const fetchBanners = async () => {
       try {
-        // Quebrando o cache do Vercel para os banners também
         const timestamp = new Date().getTime();
-        const JSON_API_URL2 = `/banners.json?v=${timestamp}`;
-
-        const response = await fetch(JSON_API_URL2);
+        const urlComCacheBusting = `${JSON_API_URL2}?v=${timestamp}`;
+        
+        const response = await fetch(urlComCacheBusting);
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
@@ -29,23 +31,20 @@ const Footer = () => {
     };
 
     fetchBanners();
-    
-    // Opcional: recarregar os banners a cada 1 hora para pegar novos eventos
-    const refreshBanners = setInterval(fetchBanners, 3600000);
-    return () => clearInterval(refreshBanners);
   }, []);
 
+  // Lógica de rotação alterada: pula de 1 em 1 banner
   useEffect(() => {
     if (banners.length > 0) {
       const interval = setInterval(() => {
         setCurrentBannerIndex((prevIndex) => {
-          const nextIndex = prevIndex + 2;
+          const nextIndex = prevIndex + 1; // Pula de 1 em 1
           if (nextIndex >= banners.length) {
-            return 0;
+            return 0; // Volta para o primeiro se chegar no fim
           }
           return nextIndex;
         });
-      }, 10000);
+      }, 10000); // Troca a cada 10 segundos
 
       return () => clearInterval(interval);
     }
@@ -57,7 +56,6 @@ const Footer = () => {
         <div className="footer-text">
           <p>Carregando banners...</p>
         </div>
-        <p>Desenvolvido por: Julio Constantino, Marco Aurélio</p>
       </div>
     );
   }
@@ -68,7 +66,6 @@ const Footer = () => {
         <div className="footer-text">
           <p>Erro ao carregar banners: {error.message}</p>
         </div>
-        <p>Desenvolvido por: Julio Constantino, Marco Aurélio</p>
       </div>
     );
   }
@@ -79,12 +76,12 @@ const Footer = () => {
         <div className="footer-text">
           <p>Nenhum banner disponível.</p>
         </div>
-        <p>Desenvolvido por: Julio Constantino, Marco Aurélio</p>
       </div>
     );
   }
+
+  // Pegamos apenas 1 banner por vez agora
   const banner1 = banners[currentBannerIndex];
-  const banner2 = banners[currentBannerIndex + 1];
 
   return (
     <div className="footer-container">
@@ -94,13 +91,6 @@ const Footer = () => {
             className="banner"
             src={banner1.url}
             alt={banner1.alt_text || `Banner ${banner1.id}`}
-          />
-        )}
-        {banner2 && (
-          <img
-            className="banner"
-            src={banner2.url}
-            alt={banner2.alt_text || `Banner ${banner2.id}`}
           />
         )}
       </div>
