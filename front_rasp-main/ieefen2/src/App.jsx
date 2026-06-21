@@ -2,59 +2,48 @@ import React, { useEffect } from "react";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Table from "./components/Table";
+import Sidebar from "./components/Sidebar"; // Importamos a nova barra lateral!
 
 const App = () => {
   useEffect(() => {
-    // 1. O F5 DA MADRUGADA (Limpa a memória da TV para não travar após dias ligada)
+    // F5 DA MADRUGADA
     const checkTime = setInterval(() => {
-      const horaAtual = new Date().getHours();
-      if (horaAtual === 3) {
-        window.location.reload(true); 
-      }
+      if (new Date().getHours() === 3) window.location.reload(true);
     }, 3600000); 
 
-    // 2. DETETIVE DE ATUALIZAÇÃO (Auto-Update após Git Push)
+    // DETETIVE DE ATUALIZAÇÃO NO VERCEL
     let currentHtml = null;
-    
     const checkForUpdates = async () => {
       try {
-        // Busca o HTML do Vercel quebrando o cache
         const res = await fetch(`/?v=${new Date().getTime()}`);
         const html = await res.text();
-        
-        // Na primeira vez, apenas memoriza como é o HTML atual
-        if (currentHtml === null) {
-          currentHtml = html;
-        } 
-        // Se o HTML que ele achou for diferente do memorizado, alguém deu deploy!
-        else if (currentHtml !== html) {
-          console.log("Novo deploy detectado no Vercel! A TV vai recarregar sozinha...");
-          window.location.reload(true); // Força o F5
-        }
+        if (currentHtml === null) currentHtml = html;
+        else if (currentHtml !== html) window.location.reload(true);
       } catch (error) {
-        console.error("Modo offline: Falha ao buscar nova versão do painel.", error);
+        console.error("Modo offline", error);
       }
     };
 
-    // A TV vai checar se tem código novo a cada 1 minuto (60000 milissegundos)
     const updateInterval = setInterval(checkForUpdates, 60000);
-
-    return () => {
-      clearInterval(checkTime);
-      clearInterval(updateInterval);
-    };
+    return () => { clearInterval(checkTime); clearInterval(updateInterval); };
   }, []);
 
   return (
-    <>
-      <div className="app-container">
-        <Header />
+    <div className="app-container">
+      <Header />
+      
+      {/* Container flexível que coloca a tabela e o banner lado a lado */}
+      <div className="content-wrapper">
         <main className="main-content">
           <Table />
         </main>
-        <Footer />
+        <aside className="sidebar-wrapper">
+          <Sidebar />
+        </aside>
       </div>
-    </>
+
+      <Footer />
+    </div>
   );
 };
 
