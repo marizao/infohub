@@ -67,27 +67,34 @@ const Table = () => {
     return () => clearInterval(fetchInterval);
   }, []);
 
-  // 4. Lógica de Filtro
-  const dayName = ["domingo", "seg", "ter", "qua", "qui", "sex", "sábado"];
-  const today = dayName[currentTimeNow.getDay()];
-  const currentHour = currentTimeNow.getHours();
-  const currentMinute = currentTimeNow.getMinutes();
+  // // 4. Lógica de Filtro
+  // const dayName = ["domingo", "seg", "ter", "qua", "qui", "sex", "sábado"];
+  // const today = dayName[currentTimeNow.getDay()];
+  // const currentHour = currentTimeNow.getHours();
+  // const currentMinute = currentTimeNow.getMinutes();
 
+  // const filteredData = data.filter((user) => {
+  //   if (!user["HORÁRIO_INICIAL"] || !user["HORÁRIO_FINAL"]) return false;
+
+  //   const [startHour, startMinute] = user["HORÁRIO_INICIAL"].split(":").map(Number);
+  //   const [endHour, endMinute] = user["HORÁRIO_FINAL"].split(":").map(Number);
+
+  //   const startTime = startHour * 60 + startMinute;
+  //   const endTime = endHour * 60 + endMinute;
+  //   const currentTime = currentHour * 60 + currentMinute;
+
+  //   return (
+  //     user["DIA_DA_SEMANA"]?.trim().toLowerCase() === today &&
+  //     currentTime >= startTime - 300 &&
+  //     currentTime < endTime
+  //   );
+  // });
+
+  // 4. Lógica de Filtro (TEMPORARIAMENTE DESLIGADA PARA TESTE DE LAYOUT)
   const filteredData = data.filter((user) => {
+    // Apenas verifica se a aula tem um horário válido e manda exibir tudo!
     if (!user["HORÁRIO_INICIAL"] || !user["HORÁRIO_FINAL"]) return false;
-
-    const [startHour, startMinute] = user["HORÁRIO_INICIAL"].split(":").map(Number);
-    const [endHour, endMinute] = user["HORÁRIO_FINAL"].split(":").map(Number);
-
-    const startTime = startHour * 60 + startMinute;
-    const endTime = endHour * 60 + endMinute;
-    const currentTime = currentHour * 60 + currentMinute;
-
-    return (
-      user["DIA_DA_SEMANA"]?.trim().toLowerCase() === today &&
-      currentTime >= startTime - 300 &&
-      currentTime < endTime
-    );
+    return true; 
   });
 
   filteredData.sort((a, b) => {
