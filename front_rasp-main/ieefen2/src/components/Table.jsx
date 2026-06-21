@@ -99,13 +99,13 @@ const Table = () => {
   return (
     <div className="table-container">
       <div className="c">
-        <table id="schedule-table">
+<table id="schedule-table">
           <thead>
             <tr>
               <th>DISCIPLINA</th>
               <th>SALA</th>
-              <th>PROFESSOR</th>
               <th>TURMA</th>
+              <th>PROFESSOR</th>
               <th>HORÁRIO INICIAL</th>
               <th>HORÁRIO FINAL</th>
             </tr>
@@ -115,9 +115,8 @@ const Table = () => {
               <tr key={index}>
                 <td>{user.DISCIPLINA}</td>
                 <td>{user.SALA}</td>
-                <td>{user.PROFESSOR}</td>
                 <td align="center">{user["TURMA"]}</td>
-                {/* A MÁGICA DOS SEGUNDOS: O .substring(0,5) corta os segundos fora! */}
+                <td>{user.PROFESSOR}</td>
                 <td align="center">{user["HORÁRIO_INICIAL"]?.substring(0, 5)}</td>
                 <td align="center">{user["HORÁRIO_FINAL"]?.substring(0, 5)}</td>
               </tr>
