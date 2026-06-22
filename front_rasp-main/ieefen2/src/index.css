@@ -216,7 +216,8 @@ body {
 
 #schedule-table td {
   padding: 1.5vh 1.5vw; 
-  font-size: clamp(0.85rem, 1vw, 1.2rem);
+  /* Aumentámos a base de 0.85rem para 1rem, e o máximo para 1.5rem */
+  font-size: clamp(1rem, 1.3vw, 1.5rem); 
   font-weight: 600;
   color: var(--text-main);
   border-bottom: 1px solid #f1f5f9;
@@ -230,7 +231,8 @@ body {
   font-family: 'Space Mono', monospace;
   color: var(--uerj-blue);
   font-weight: 700;
-  font-size: clamp(0.9rem, 1.1vw, 1.3rem);
+  /* Aumentámos de forma proporcional aos números para manterem o destaque */
+  font-size: clamp(1.1rem, 1.4vw, 1.6rem); 
 }
 
 /* Deixa o texto da Sala em negrito e cinza */
