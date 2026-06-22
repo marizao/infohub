@@ -1,17 +1,18 @@
-import React, { useEffect } from "react";
+import React, { useEffect, useState } from "react";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Table from "./components/Table";
-import Sidebar from "./components/Sidebar"; // Importamos a nova barra lateral!
+import Sidebar from "./components/Sidebar"; 
 
 const App = () => {
+  // Estado inteligente para esconder a barra
+  const [hasBanners, setHasBanners] = useState(true);
+
   useEffect(() => {
-    // F5 DA MADRUGADA
     const checkTime = setInterval(() => {
       if (new Date().getHours() === 3) window.location.reload(true);
     }, 3600000); 
 
-    // DETETIVE DE ATUALIZAÇÃO NO VERCEL
     let currentHtml = null;
     const checkForUpdates = async () => {
       try {
@@ -32,13 +33,16 @@ const App = () => {
     <div className="app-container">
       <Header />
       
-      {/* Container flexível que coloca a tabela e o banner lado a lado */}
       <div className="content-wrapper">
         <main className="main-content">
           <Table />
         </main>
-        <aside className="sidebar-wrapper">
-          <Sidebar />
+        
+        {/* A MÁGICA: Se não houver banner, ela oculta a lateral.
+            Usamos 'display: none' para o componente continuar existindo invisível 
+            e poder voltar sozinho caso você adicione um banner depois! */}
+        <aside className="sidebar-wrapper" style={{ display: hasBanners ? 'flex' : 'none' }}>
+          <Sidebar setHasBanners={setHasBanners} />
         </aside>
       </div>
 
