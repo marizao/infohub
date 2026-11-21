@@ -1,452 +1,5609 @@
 [
   {
-    "PROFESSOR": "Professor Carvalho",
-    "SALA": "5029F-02",
-    "DISCIPLINA": "Algoritmos e Estrutura de Dados",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "CIRCUITOS ELÉTRICOS II",
+    "SALA": "5098-F",
+    "TURMA": "T3/4",
+    "PROFESSOR": "LORENNA OLIVEIRA",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "seg"
   },
   {
-    "PROFESSOR": "Professor Antunes",
-    "SALA": "5005F",
-    "DISCIPLINA": "Engenharia de Software",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Cálculo Numérico IV",
+    "SALA": "5060-F",
+    "TURMA": "T7",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "seg"
   },
   {
-    "PROFESSOR": "Professora Bastos",
-    "SALA": "5003F",
-    "DISCIPLINA": "Banco de Dados",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Eletrônica IV",
+    "SALA": "LEE 18",
+    "TURMA": "1",
+    "PROFESSOR": "Flávio Alencar do Rego Barros",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "seg"
   },
   {
-    "PROFESSOR": "Professor Dias",
-    "SALA": "5029F-01",
-    "DISCIPLINA": "Redes de Computadores",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Fibras Óticas e Dispositivos",
+    "SALA": "5088F",
+    "TURMA": "1",
+    "PROFESSOR": "Alexandre De Oliveira Dal Forno",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "seg"
   },
   {
-    "PROFESSOR": "Professora Esteves",
-    "SALA": "5017A",
-    "DISCIPLINA": "Sistemas Operacionais",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Hiperestática II",
+    "SALA": "5038-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Muñoz",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "seg"
   },
   {
-    "PROFESSOR": "Professor Farias",
+    "DISCIPLINA": "Máquinas Elétricas II",
+    "SALA": "5097-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Otto Wanner Ganvini Asencios",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "09:40",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Plan. e Op. de Sistema de Potência",
+    "SALA": "5092-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Roberto Fontoura",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Pontes II",
+    "SALA": "5054-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Wilson",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "09:40",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Portos II",
+    "SALA": "5050-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Wilson",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "09:40",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Resmat III",
+    "SALA": "5050-F",
+    "TURMA": "T2",
+    "PROFESSOR": "Fernanda",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "09:40",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Tópicos Especiais em Eletrônica",
+    "SALA": "LEE 11J",
+    "TURMA": "1",
+    "PROFESSOR": "Aloísio Alves de Melo Bento",
+    "HORÁRIO_INICIAL": "07:50",
+    "HORÁRIO_FINAL": "09:40",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "DISTRIBUIÇÃO DE ENERGIA ELÉTRICA",
+    "SALA": "5092-F",
+    "TURMA": "T1",
+    "PROFESSOR": "ROMULO SALES",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Estruturas Metálicas",
+    "SALA": "5038-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Monique",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Fundam de Transf de Calor e Massa",
+    "SALA": "5002F",
+    "TURMA": "1",
+    "PROFESSOR": "ROBERT JACKEL",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Introdução à Economia III",
     "SALA": "5026F",
-    "DISCIPLINA": "Inteligência Artificial",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "TURMA": "T1",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "seg"
   },
   {
-    "PROFESSOR": "Professora Gomes",
-    "SALA": "5029F-LES",
-    "DISCIPLINA": "Desenvolvimento Web",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Introdução à Economia III",
+    "SALA": "5032F",
+    "TURMA": "T2",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "seg"
   },
   {
-    "PROFESSOR": "Professor Henriques",
-    "SALA": "5029F-02",
-    "DISCIPLINA": "Programação Mobile",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Metodologia Científica I",
+    "SALA": "5098-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Leonardo Bitencourt",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "seg"
   },
   {
-    "PROFESSOR": "Professora Iglesias",
-    "SALA": "5005F",
-    "DISCIPLINA": "Segurança da Informação",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Resmat IV",
+    "SALA": "5044-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Luciano",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "seg"
   },
   {
-    "PROFESSOR": "Professor Jorge",
-    "SALA": "5003F",
-    "DISCIPLINA": "Computação Gráfica",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Resmat VI (MECAN)",
+    "SALA": "5004-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Carolina",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "seg"
   },
   {
-    "PROFESSOR": "Professora Klein",
-    "SALA": "5029F-01",
-    "DISCIPLINA": "Abastecimento de Água I",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Técnicas Digitais II",
+    "SALA": "5088F",
+    "TURMA": "1 e 2",
+    "PROFESSOR": "Jorge Luis Machado do Amaral",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "seg"
   },
   {
-    "PROFESSOR": "Professor Lopes",
-    "SALA": "5017A",
-    "DISCIPLINA": "Avaliação de Impactos e Riscos Ambientais",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Tóp. Esp. em Estr/em Transp I (Estr/Tran)",
+    "SALA": "5008-F",
+    "TURMA": "T1/T1",
+    "PROFESSOR": "Mª Fernanda",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "seg"
   },
   {
-    "PROFESSOR": "Professora Mendes",
+    "DISCIPLINA": "Álgebra Linear VIII",
+    "SALA": "6002",
+    "TURMA": "1",
+    "PROFESSOR": "Amilcar",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral II",
+    "SALA": "6005",
+    "TURMA": "1",
+    "PROFESSOR": "Nasim",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral II",
+    "SALA": "3126",
+    "TURMA": "4",
+    "PROFESSOR": "Guilherme Brandão",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral II",
+    "SALA": "5054-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Noemi",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral II",
+    "SALA": "5054",
+    "TURMA": "1",
+    "PROFESSOR": "Noemi",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral II",
+    "SALA": "6053",
+    "TURMA": "4",
+    "PROFESSOR": "Taynara",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Fund. e Obras de Terra II/Fund. II",
+    "SALA": "5050-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Bernadete/Flavia",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Mecânica Técnica",
+    "SALA": "5006F",
+    "TURMA": "4",
+    "PROFESSOR": "SÉRGIO BARROS DA CUNHA",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Sistemas de Transportes II",
+    "SALA": "5088-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Bruno",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "CONVERSÃO ELETROMECÂNICA DE ENERGIA II",
+    "SALA": "5098-F",
+    "TURMA": "T1",
+    "PROFESSOR": "ROMULO SALES",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6038",
+    "TURMA": "15",
+    "PROFESSOR": "Anthony Garcia",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "13:20",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "RAV 64",
+    "TURMA": "15",
+    "PROFESSOR": "Mateus Gomes",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "13:20",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Cálculo III",
+    "SALA": "6038",
+    "TURMA": "2",
+    "PROFESSOR": "Jeanine Denise",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Cálculo III",
+    "SALA": "6100",
+    "TURMA": "1",
+    "PROFESSOR": "Jeanne Deluiz",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Eletrônica Industrial II",
+    "SALA": "LEE 10",
+    "TURMA": "1",
+    "PROFESSOR": "Marta Dias Bellar",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Hiperestática I",
+    "SALA": "5038-F",
+    "TURMA": "T2",
+    "PROFESSOR": "Rodrigo",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Materiais Elétricos e Magnéticos",
+    "SALA": "5097-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Fontoura",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Resmat IV",
+    "SALA": "5044-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Luciano",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear",
+    "SALA": "6050",
+    "TURMA": "1",
+    "PROFESSOR": "Rosiane",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear III",
+    "SALA": "6032",
+    "TURMA": "12",
+    "PROFESSOR": "Ruben",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "13:20",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Análise Vetorial",
+    "SALA": "5058",
+    "TURMA": "2",
+    "PROFESSOR": "Gabriel",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Análise Vetorial",
+    "SALA": "5058-F",
+    "TURMA": "T2",
+    "PROFESSOR": "Gabriel",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Concreto Protendido",
+    "SALA": "5024-F",
+    "TURMA": "T2",
+    "PROFESSOR": "Thomás",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Concreto Protendido",
+    "SALA": "5038-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Wilson",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6134",
+    "TURMA": "2",
+    "PROFESSOR": "Liliana Jurado",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "5054",
+    "TURMA": "3",
+    "PROFESSOR": "Noemi",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6006",
+    "TURMA": "1",
+    "PROFESSOR": "José Mesquita",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6005",
+    "TURMA": "2",
+    "PROFESSOR": "Karina",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6058",
+    "TURMA": "3",
+    "PROFESSOR": "Nasim",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6106",
+    "TURMA": "2",
+    "PROFESSOR": "Taynara",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6134",
+    "TURMA": "3",
+    "PROFESSOR": "Liliana Jurado",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Cálculo IV",
+    "SALA": "6058",
+    "TURMA": "1",
+    "PROFESSOR": "André Lopes",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Eletromagnetismo III",
+    "SALA": "5097-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Fontoura",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Introdução à Economia III",
+    "SALA": "5032F",
+    "TURMA": "T3",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Introdução à Economia III",
     "SALA": "5026F",
-    "DISCIPLINA": "Biossegurança Aplicada à Engenharia Ambiental e Sanitária",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "TURMA": "T5",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "seg"
   },
   {
-    "PROFESSOR": "Professor Nogueira",
-    "SALA": "5029F-LES",
-    "DISCIPLINA": "Ecologia Aplicada à Engenharia Ambiental e Sanitária",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Introdução à Economia III",
+    "SALA": "8058F",
+    "TURMA": "T4",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "seg"
   },
   {
-    "PROFESSOR": "Professora Oliveira",
-    "SALA": "5029F-02",
-    "DISCIPLINA": "Ecotoxicologia",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Tópicos Esp. em Estruturas (Cypecad)",
+    "SALA": "A definir",
+    "TURMA": "T3",
+    "PROFESSOR": "Glauco",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "seg"
   },
   {
-    "PROFESSOR": "Professor Pires",
-    "SALA": "5005F",
-    "DISCIPLINA": "Epidemiologia Ambiental",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Tópicos Esp. em Estruturas (Cypecad)",
+    "SALA": "sem sala 17/11",
+    "TURMA": "T3",
+    "PROFESSOR": "Glauco",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "seg"
   },
   {
-    "PROFESSOR": "Professora Queiroz",
-    "SALA": "5003F",
-    "DISCIPLINA": "Estágio Supervisionado",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Álgebra Linear III",
+    "SALA": "6010",
+    "TURMA": "11",
+    "PROFESSOR": "Kevin",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "seg"
   },
   {
-    "PROFESSOR": "Professor Ramos",
-    "SALA": "5029F-01",
-    "DISCIPLINA": "Físico-Química Ambiental",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Arquitetura I",
+    "SALA": "4028B",
+    "TURMA": "T2",
+    "PROFESSOR": "Giovana",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "seg"
   },
   {
-    "PROFESSOR": "Professora Santos",
-    "SALA": "5017A",
-    "DISCIPLINA": "Geotecnia Ambiental",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "CIRCUITOS ELÉTRICOS I",
+    "SALA": "5098-F",
+    "TURMA": "T1/2",
+    "PROFESSOR": "LENY SILVA",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "seg"
   },
   {
-    "PROFESSOR": "Professor Teixeira",
+    "DISCIPLINA": "CIRCUITOS ELÉTRICOS I",
+    "SALA": "5092-F",
+    "TURMA": "T3/4",
+    "PROFESSOR": "LORENNA OLIVEIRA",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Concreto Armado I",
+    "SALA": "5008-F",
+    "TURMA": "T2",
+    "PROFESSOR": "Gisele",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Concreto Armado I",
+    "SALA": "5050-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Beth",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Eletrônica Industrial I",
+    "SALA": "LEE 11C",
+    "TURMA": "3",
+    "PROFESSOR": "Aluísio Alves De Melo Bento",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Mecânica Técnica",
+    "SALA": "5006F",
+    "TURMA": "5",
+    "PROFESSOR": "CAROLINA SEIXAS MOREIRA",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Microprocessadores",
+    "SALA": "LEE 12",
+    "TURMA": "1",
+    "PROFESSOR": "José Franco Machado Do Amaral",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "CONVERSÃO ELETROMECÂNICA DE ENERGIA III",
+    "SALA": "5097-F",
+    "TURMA": "T1",
+    "PROFESSOR": "LEONARDO BITENCOURT",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Geotécnica",
+    "SALA": "5004-F",
+    "TURMA": "T3",
+    "PROFESSOR": "Fernando",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Geotécnica",
+    "SALA": "5038-F",
+    "TURMA": "T2",
+    "PROFESSOR": "Bruno",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Introdução à Mecânica dos Solidos",
+    "SALA": "5032-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Rodrigo",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Introdução à Mecânica dos Sólidos",
+    "SALA": "5032-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Rodrigo",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Portos I",
+    "SALA": "5002F",
+    "TURMA": "T1",
+    "PROFESSOR": "Paulo",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Probabilidade e Estatística III",
+    "SALA": "5060-F",
+    "TURMA": "T6",
+    "PROFESSOR": "Renato Monteiro",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear",
+    "SALA": "6053",
+    "TURMA": "1",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Arquitetura I",
+    "SALA": "5044-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Giovana",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral III",
+    "SALA": "6005",
+    "TURMA": "1",
+    "PROFESSOR": "Ronald",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral III",
+    "SALA": "6105-2",
+    "TURMA": "2",
+    "PROFESSOR": "Laurent Prouvée",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Elementos de Lógica",
+    "SALA": "6118",
+    "TURMA": "2",
+    "PROFESSOR": "Tarcisio",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Eletrônica Industrial I",
+    "SALA": "LEE 11C",
+    "TURMA": "3",
+    "PROFESSOR": "Aluísio Alves De Melo Bento",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Geometria Analítica e Cálculo Vetorial I",
+    "SALA": "5058-F",
+    "TURMA": "T2",
+    "PROFESSOR": "Felipe",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "CIRCUITOS ELÉTRICOS I",
+    "SALA": "5098-F",
+    "TURMA": "T5",
+    "PROFESSOR": "RONALDO BOSIGNOLI",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6096",
+    "TURMA": "16",
+    "PROFESSOR": "Miguel Soto",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6053",
+    "TURMA": "17",
+    "PROFESSOR": "Rubens Sucupira",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6038",
+    "TURMA": "16",
+    "PROFESSOR": "Anthony Garcia",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6096",
+    "TURMA": "17",
+    "PROFESSOR": "Miguel Soto",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral III",
+    "SALA": "6010",
+    "TURMA": "1",
+    "PROFESSOR": "José Mesquita",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Estruturas de Madeira",
+    "SALA": "5038-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Glauco",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Princípios de Telecom III",
+    "SALA": "5024F",
+    "TURMA": "1",
+    "PROFESSOR": "Christian Fragoso",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:50",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Química X",
+    "SALA": "5032F",
+    "TURMA": "1 e 2",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "SUBSTAÇÕES II",
+    "SALA": "5092-F",
+    "TURMA": "T1",
+    "PROFESSOR": "PAULO ROCHA",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Subestações II",
+    "SALA": "5092-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Paulo Rocha",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear",
+    "SALA": "6050",
+    "TURMA": "2",
+    "PROFESSOR": "Alejandro",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear",
+    "SALA": "6100",
+    "TURMA": "1",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Máquinas Elétricas I",
+    "SALA": "5097-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Otto Wanner Ganvini Asencios",
+    "HORÁRIO_INICIAL": "17:10",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Planej. e Controle de Obras",
+    "SALA": "5050-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Paulo",
+    "HORÁRIO_INICIAL": "17:10",
+    "HORÁRIO_FINAL": "18:50",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Projeto de Graduação VIII-B",
+    "SALA": "LEE 11C",
+    "TURMA": "1",
+    "PROFESSOR": "José Rodolfo Souza",
+    "HORÁRIO_INICIAL": "17:10",
+    "HORÁRIO_FINAL": "18:50",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Resmat III",
+    "SALA": "5044-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Rodolfo",
+    "HORÁRIO_INICIAL": "17:10",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Análise Vetorial",
+    "SALA": "5.054",
+    "TURMA": "6",
+    "PROFESSOR": "Steban",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Análise Vetorial",
+    "SALA": "5054-F",
+    "TURMA": "T6",
+    "PROFESSOR": "Steban",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6106",
+    "TURMA": "1",
+    "PROFESSOR": "Taynara",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6053",
+    "TURMA": "1",
+    "PROFESSOR": "Rubens Sucupira",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Elementos de Lógica",
+    "SALA": "6118",
+    "TURMA": "1",
+    "PROFESSOR": "Tarcisio",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Eletrotécnica II",
+    "SALA": "5092-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Carlos Aparecido",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Geotécnica",
+    "SALA": "5038-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Fernando",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Materiais de Construção Mecânica II",
+    "SALA": "5002F",
+    "TURMA": "1",
+    "PROFESSOR": "JOSE ROBERTO MORAES D'ALMEIDA",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "20:30",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Planejamento e Controle de Produção",
+    "SALA": "LEMC",
+    "TURMA": "1",
+    "PROFESSOR": "SÉRGIO BARROS DA CUNHA",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Projeto de Graduação II",
+    "SALA": "5008-F",
+    "TURMA": "T1",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Projeto de Graduação IIA",
+    "SALA": "5008-F",
+    "TURMA": "T1",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Projeto de Graduação VII-A",
+    "SALA": "5093F",
+    "TURMA": "1",
+    "PROFESSOR": "Hélio da Motta Filho",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "20:30",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Química XI",
+    "SALA": "5032F",
+    "TURMA": "1 e 2",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "CONVERSÃO ELETROMECÂNICA DE ENERGIA II",
+    "SALA": "5092-F",
+    "TURMA": "T2",
+    "PROFESSOR": "CARLOS APARECIDO",
+    "HORÁRIO_INICIAL": "19:40",
+    "HORÁRIO_FINAL": "21:20",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral III",
+    "SALA": "6097",
+    "TURMA": "2",
+    "PROFESSOR": "Anthony Garcia",
+    "HORÁRIO_INICIAL": "19:40",
+    "HORÁRIO_FINAL": "21:20",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Cálculo I",
+    "SALA": "6058",
+    "TURMA": "2",
+    "PROFESSOR": "Miguel Soto",
+    "HORÁRIO_INICIAL": "19:40",
+    "HORÁRIO_FINAL": "22:10",
+    "DIA_DA_SEMANA": "seg"
+  },
+  {
+    "DISCIPLINA": "Introdução à Economia III",
     "SALA": "5026F",
-    "DISCIPLINA": "Gestão de Recursos Hídricos",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "TURMA": "T6",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "19:40",
+    "HORÁRIO_FINAL": "21:20",
+    "DIA_DA_SEMANA": "seg"
   },
   {
-    "PROFESSOR": "Professora Vasconcelos",
-    "SALA": "5029F-LES",
-    "DISCIPLINA": "Gestão Integrada de Resíduos Sólidos",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Tópicos Especiais em Telecomunicações I",
+    "SALA": "LEE 15",
+    "TURMA": "1",
+    "PROFESSOR": "Christian Fraguas",
+    "HORÁRIO_INICIAL": "20:30",
+    "HORÁRIO_FINAL": "22:10",
+    "DIA_DA_SEMANA": "seg"
   },
   {
-    "PROFESSOR": "Professor Xavier",
-    "SALA": "5029F-02",
+    "DISCIPLINA": "CIRCUITOS ELÉTRICOS III / IV",
+    "SALA": "5098-F",
+    "TURMA": "T1/2",
+    "PROFESSOR": "LENY MEDEIROS",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Concreto Armado II",
+    "SALA": "5038-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Beth",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Concreto Armado II",
+    "SALA": "5054-F",
+    "TURMA": "T2",
+    "PROFESSOR": "Gisele",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral II",
+    "SALA": "5058",
+    "TURMA": "13",
+    "PROFESSOR": "Reyes",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "09:40",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral II",
+    "SALA": "6032",
+    "TURMA": "1",
+    "PROFESSOR": "Guilherme Brandão",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral II",
+    "SALA": "5058-F",
+    "TURMA": "T13",
+    "PROFESSOR": "Reyes",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "09:40",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral III",
+    "SALA": "6032",
+    "TURMA": "1",
+    "PROFESSOR": "Guilherme Brandão",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Cálculo II",
+    "SALA": "6105-2",
+    "TURMA": "1",
+    "PROFESSOR": "Renata",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Física Teórica Experimental II",
+    "SALA": "5032F",
+    "TURMA": "1, 2 e 3",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "09:40",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Física Teórica Experimental II",
+    "SALA": "5026F",
+    "TURMA": "4, 5 e 6",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "09:40",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Máquinas Térmicas e Hidráulicas I",
+    "SALA": "5002F",
+    "TURMA": "1",
+    "PROFESSOR": "LUZ ELENA PEÑARANDA CHENCHE",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Plan. e Op. de Sistema de Potência",
+    "SALA": "5092-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Roberto Fontoura",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "09:40",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Pontes II",
+    "SALA": "5050-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Wilson",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "09:40",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Microeletrônica",
+    "SALA": "LEE 11J",
+    "TURMA": "1",
+    "PROFESSOR": "Frederico Celestino Pontes",
+    "HORÁRIO_INICIAL": "07:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Pontes e Obras Especiais II",
+    "SALA": "5044-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Eudes",
+    "HORÁRIO_INICIAL": "07:50",
+    "HORÁRIO_FINAL": "09:40",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear III",
+    "SALA": "6.106",
+    "TURMA": "3",
+    "PROFESSOR": "Lucivânio",
+    "HORÁRIO_INICIAL": "07:50",
+    "HORÁRIO_FINAL": "09:40",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear III",
+    "SALA": "6105-2",
+    "TURMA": "3",
+    "PROFESSOR": "Lucivânio",
+    "HORÁRIO_INICIAL": "07:50",
+    "HORÁRIO_FINAL": "09:40",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral II",
+    "SALA": "6058",
+    "TURMA": "2",
+    "PROFESSOR": "Guilherme Brandão",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral III",
+    "SALA": "6058",
+    "TURMA": "2",
+    "PROFESSOR": "Guilherme Brandão",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "ELETRICIDADE II",
+    "SALA": "5098-F",
+    "TURMA": "T1/2",
+    "PROFESSOR": "ROMULO SALES",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Elementos de Lógica",
+    "SALA": "6053",
+    "TURMA": "3",
+    "PROFESSOR": "Jéssica",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Fenômenos de Transporte",
+    "SALA": "5088F",
+    "TURMA": "1",
+    "PROFESSOR": "DOUGLAS MONTEIRO ANDRADE",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
     "DISCIPLINA": "Hidráulica I",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "SALA": "5002F",
+    "TURMA": "1",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "ter"
   },
   {
-    "PROFESSOR": "Professora Yunes",
-    "SALA": "5005F",
-    "DISCIPLINA": "Hidráulica II",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Instalações Industriais",
+    "SALA": "5004F",
+    "TURMA": "1",
+    "PROFESSOR": "LUZ ELENA PEÑARANDA CHENCHE",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "ter"
   },
   {
-    "PROFESSOR": "Professor Zandonadi",
-    "SALA": "5003F",
-    "DISCIPLINA": "Hidrologia e Climatologia",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Mecânica dos Fluidos III",
+    "SALA": "5006F",
+    "TURMA": "1",
+    "PROFESSOR": "NORBERTO MANGIAVACCHI",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "ter"
   },
   {
-    "PROFESSOR": "Professora Alves",
-    "SALA": "5029F-01",
-    "DISCIPLINA": "Instalações Hidráulicas",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Cálculo Diferencial e Integral II",
+    "SALA": "6009",
+    "TURMA": "2",
+    "PROFESSOR": "Maurício",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "ter"
   },
   {
-    "PROFESSOR": "Professor Borges",
-    "SALA": "5017A",
-    "DISCIPLINA": "Irrigação e Drenagem",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Cálculo Diferencial e Integral II",
+    "SALA": "6053",
+    "TURMA": "3",
+    "PROFESSOR": "Taynara",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "ter"
   },
   {
-    "PROFESSOR": "Professora Castro",
+    "DISCIPLINA": "Cálculo Diferencial e Integral II",
+    "SALA": "6118",
+    "TURMA": "12",
+    "PROFESSOR": "Hamilton Simões",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral II",
+    "SALA": "6005",
+    "TURMA": "2",
+    "PROFESSOR": "Nasim",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral II",
+    "SALA": "6009",
+    "TURMA": "3",
+    "PROFESSOR": "Maurício",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Estradas e Transportes II",
+    "SALA": "5050-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Marina",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Fund. e Obras de Terra II/Fund. II",
+    "SALA": "5044-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Bernadete/Flavia",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Física Teórica Experimental II",
+    "SALA": "5032F",
+    "TURMA": "7, 8 e 9",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Física Teórica Experimental III",
     "SALA": "5026F",
-    "DISCIPLINA": "Metodologia e Desenvolvimento de Projeto",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "TURMA": "1 e 2",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "ter"
   },
   {
-    "PROFESSOR": "Professor Diniz",
-    "SALA": "5029F-LES",
-    "DISCIPLINA": "Modelagem Aplicada à Engenharia Ambiental e Sanitária",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Física Teórica Experimental III",
+    "SALA": "5058F",
+    "TURMA": "3 e 4",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "ter"
   },
   {
-    "PROFESSOR": "Professora Esteves",
-    "SALA": "5029F-02",
-    "DISCIPLINA": "Monitoramento Ambiental",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Física Teórica Experimental III",
+    "SALA": "5008F",
+    "TURMA": "5 e 6",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "ter"
   },
   {
-    "PROFESSOR": "Professor Fernandes",
-    "SALA": "5005F",
-    "DISCIPLINA": "Obras Hidráulicas",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Geração de Energia Elétrica",
+    "SALA": "5092-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Antonio Guilherme",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "ter"
   },
   {
-    "PROFESSOR": "Professora Guedes",
-    "SALA": "5003F",
-    "DISCIPLINA": "Planejamento Estratégico e Recursos Renováveis",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Álgebra Linear III",
+    "SALA": "6106",
+    "TURMA": "10",
+    "PROFESSOR": "Lucivânio",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "ter"
   },
   {
-    "PROFESSOR": "Professor Hermes",
-    "SALA": "5029F-01",
-    "DISCIPLINA": "Políticas Públicas e Gestão Ambiental",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "CONVERSÃO ELETROMECÂNICA DE ENERGIA II",
+    "SALA": "5098-F",
+    "TURMA": "T1",
+    "PROFESSOR": "ROMULO SALES",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "ter"
   },
   {
-    "PROFESSOR": "Professora Isidoro",
-    "SALA": "5017A",
-    "DISCIPLINA": "Poluição Atmosférica",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Cálculo Diferencial e Integral III",
+    "SALA": "6096",
+    "TURMA": "6",
+    "PROFESSOR": "Reyes",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "ter"
   },
   {
-    "PROFESSOR": "Professor Jardim",
+    "DISCIPLINA": "Cálculo Diferencial e Integral III",
+    "SALA": "6105-2",
+    "TURMA": "7",
+    "PROFESSOR": "Cláudia Concordido",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Cálculo IV",
+    "SALA": "6006",
+    "TURMA": "1",
+    "PROFESSOR": "André Lopes",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "13:20",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Cálculo IV",
+    "SALA": "6006",
+    "TURMA": "2",
+    "PROFESSOR": "Filipe Jorio",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "13:20",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Elementos de Lógica",
+    "SALA": "6053",
+    "TURMA": "4",
+    "PROFESSOR": "Jéssica",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Eletrônica Industrial II",
+    "SALA": "LEE 10",
+    "TURMA": "1",
+    "PROFESSOR": "Marta Dias Bellar",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "INTRODUÇÃO A ENGENHARIA AMBIENTAL",
+    "SALA": "5097F",
+    "TURMA": "T4",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Introdução à Engenharia Ambiental",
+    "SALA": "5097F",
+    "TURMA": "T4",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Materiais de Construção II",
+    "SALA": "5038-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Kissila",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Projeto de Graduação IIA",
+    "SALA": "5088-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Luciana",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Resmat II",
+    "SALA": "5054-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Elaine",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Resmat IV",
+    "SALA": "5006-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Luciano",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Sistemas de Televisão",
+    "SALA": "LEE 12",
+    "TURMA": "1",
+    "PROFESSOR": "Bismarck Costa Lima",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Síntese e Filtros",
+    "SALA": "LEE 11J",
+    "TURMA": "1",
+    "PROFESSOR": "Paulo BulkooL Batalheiro",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "13:20",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Mecânica Técnica",
+    "SALA": "5004F",
+    "TURMA": "1",
+    "PROFESSOR": "PEDRO SOUCASAUX PIRES GARCIA",
+    "HORÁRIO_INICIAL": "11:30",
+    "HORÁRIO_FINAL": "13:20",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Projeto de Graduação IIIA",
+    "SALA": "5088-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Luciana",
+    "HORÁRIO_INICIAL": "11:30",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "CONVERSÃO ELETROMECÂNICA DE ENERGIA III",
+    "SALA": "5098-F",
+    "TURMA": "T1",
+    "PROFESSOR": "LEONARDO BITENCOURT",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Concreto Protendido",
+    "SALA": "5050-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Wilson",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Concreto Protendido",
+    "SALA": "6032F",
+    "TURMA": "T2",
+    "PROFESSOR": "Thomás",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6058",
+    "TURMA": "4",
+    "PROFESSOR": "Nasim",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6010",
+    "TURMA": "5",
+    "PROFESSOR": "Raphael Constant",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6058",
+    "TURMA": "3",
+    "PROFESSOR": "Nasim",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6010",
+    "TURMA": "4",
+    "PROFESSOR": "Raphael Constant",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6058",
+    "TURMA": "5",
+    "PROFESSOR": "André Lopes",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Eng Soc II",
+    "SALA": "4028-B",
+    "TURMA": "T1",
+    "PROFESSOR": "Marina",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Física Teórica Experimental II",
+    "SALA": "5060F",
+    "TURMA": "10, 11 e 12",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Física Teórica Experimental III",
+    "SALA": "5008F",
+    "TURMA": "7 e 8",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Física Teórica Experimental III",
+    "SALA": "5058F",
+    "TURMA": "9 e 10",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Materiais de Construção I",
+    "SALA": "5038-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Margareth",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Materiais de Construção I",
+    "SALA": "6120F",
+    "TURMA": "T3",
+    "PROFESSOR": "Kissila / Luiz Octavio",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Mecânica dos Fluidos V",
+    "SALA": "5006F",
+    "TURMA": "1",
+    "PROFESSOR": "ROGERIO M S DA GAMA",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Química X",
+    "SALA": "5032F",
+    "TURMA": "9 e 10",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Resmat Básica",
+    "SALA": "5054-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Muñoz",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Urbanismo",
+    "SALA": "5092F",
+    "TURMA": "T2",
+    "PROFESSOR": "Luciana",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Análise Vetorial",
+    "SALA": "6050",
+    "TURMA": "5",
+    "PROFESSOR": "Lucivânio",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Concreto Armado I",
+    "SALA": "4027B",
+    "TURMA": "T2",
+    "PROFESSOR": "Gisele",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Concreto Armado I",
+    "SALA": "5044-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Beth",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Eng Soc I",
     "SALA": "5026F",
-    "DISCIPLINA": "Projeto de Graduação",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "TURMA": "T1",
+    "PROFESSOR": "Bruno",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "ter"
   },
   {
-    "PROFESSOR": "Professora Lemos",
-    "SALA": "5029F-LES",
-    "DISCIPLINA": "Segurança e Higiene do Trabalho",
-    "TURMA": 2,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Geotécnica",
+    "SALA": "6038F",
+    "TURMA": "T3",
+    "PROFESSOR": "Fernando",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "ter"
   },
   {
-    "PROFESSOR": "Professor Mattos",
-    "SALA": "5029F-02",
-    "DISCIPLINA": "Sistemas de Esgoto I",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Geotécnica",
+    "SALA": "6015F",
+    "TURMA": "T2",
+    "PROFESSOR": "Bruno",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "ter"
   },
   {
-    "PROFESSOR": "Professora Neves",
-    "SALA": "5005F",
-    "DISCIPLINA": "Sociedade e Meio Ambiente",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Instrumentação e Controle",
+    "SALA": "LEMC",
+    "TURMA": "1",
+    "PROFESSOR": "SÉRGIO BARROS DA CUNHA",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "ter"
   },
   {
-    "PROFESSOR": "Professor Noronha",
-    "SALA": "5003F",
-    "DISCIPLINA": "Tópicos Especiais Aplicados à Engenharia Ambiental e Sanitária I",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Materiais Elétricos e Magnéticos",
+    "SALA": "5097-F",
+    "TURMA": "T2",
+    "PROFESSOR": "Antonio Guilherme",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "ter"
   },
   {
-    "PROFESSOR": "Professora Pacheco",
-    "SALA": "5029F-01",
-    "DISCIPLINA": "Tópicos Especiais Aplicados à Engenharia Ambiental e Sanitária II",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Mecanismos e Dinâmica das Máquinas",
+    "SALA": "5002F",
+    "TURMA": "1",
+    "PROFESSOR": "JOSÉ GERALDO TELLES RIBEIRO",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "ter"
   },
   {
-    "PROFESSOR": "Professor Queiroz",
-    "SALA": "5017A",
-    "DISCIPLINA": "Tratamento de Água I",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Modelos Mat aplic à Eng Elétrica I",
+    "SALA": "5093F",
+    "TURMA": "1",
+    "PROFESSOR": "José Rodolfo Souza",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "ter"
   },
   {
-    "PROFESSOR": "Professora Rangel",
+    "DISCIPLINA": "Modelos Mat aplic à Eng Elétrica I",
+    "SALA": "5024F",
+    "TURMA": "2",
+    "PROFESSOR": "Bismarck Costa Lima",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Modelos Mat aplic à Eng Elétrica I",
+    "SALA": "LEE 15",
+    "TURMA": "3",
+    "PROFESSOR": "Fernando Lopes Cardoso",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Modelos Mat aplic à Eng Elétrica I",
+    "SALA": "LEE 18",
+    "TURMA": "4",
+    "PROFESSOR": "Victor Hugo Pereira Rodrigues",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Termodinâmica Aplicada II",
+    "SALA": "5004F",
+    "TURMA": "1",
+    "PROFESSOR": "LUZ ELENA PEÑARANDA CHENCHE",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6105-2",
+    "TURMA": "13",
+    "PROFESSOR": "João Alfredo",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "RAV 64",
+    "TURMA": "14",
+    "PROFESSOR": "Mateus Gomes",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6139",
+    "TURMA": "13",
+    "PROFESSOR": "Frederico Rossetto",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6105-2",
+    "TURMA": "14",
+    "PROFESSOR": "João Alfredo",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral II",
+    "SALA": "RAV 64",
+    "TURMA": "10",
+    "PROFESSOR": "Catalina Freijo",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral II",
+    "SALA": "6106",
+    "TURMA": "11",
+    "PROFESSOR": "Crisia Ramos",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral II",
+    "SALA": "6118",
+    "TURMA": "14",
+    "PROFESSOR": "Reyes",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Fenômenos de Transporte",
+    "SALA": "4028B",
+    "TURMA": "1",
+    "PROFESSOR": "ROGERIO MARTINS SALDANHA DA GAMA",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Mecânica dos Solos I",
+    "SALA": "5006-F",
+    "TURMA": "T2",
+    "PROFESSOR": "Feijó",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Resmat II",
+    "SALA": "5054-F",
+    "TURMA": "T2",
+    "PROFESSOR": "Elaine",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear III",
+    "SALA": "6006",
+    "TURMA": "2",
+    "PROFESSOR": "Hernando",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear III",
+    "SALA": "6134",
+    "TURMA": "6",
+    "PROFESSOR": "Claudio Plinio",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear III",
+    "SALA": "3097",
+    "TURMA": "6",
+    "PROFESSOR": "Claudio Plinio",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "ANÁLISE DE SISTEMAS FÍSICOS",
+    "SALA": "5097-F",
+    "TURMA": "T1",
+    "PROFESSOR": "HAROLD DIAS DE MELLO JUNIOR",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Análise Vetorial",
+    "SALA": "6050",
+    "TURMA": "1",
+    "PROFESSOR": "Anael",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Edificações I",
+    "SALA": "6032F",
+    "TURMA": "T1",
+    "PROFESSOR": "Bruno Mota",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Estradas e Transportes I",
+    "SALA": "5050-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Leandro",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Física Teórica Experimental III",
+    "SALA": "5008F",
+    "TURMA": "11 e 12",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Física Teórica Experimental III",
+    "SALA": "5058F",
+    "TURMA": "13 e 14",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Física Teórica Experimental III",
+    "SALA": "5032F/5026F",
+    "TURMA": "15 e 16",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Mecânica dos Solos II",
+    "SALA": "5044-F",
+    "TURMA": "T2",
+    "PROFESSOR": "Marcos",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Processos de Fabricação II",
+    "SALA": "5004F",
+    "TURMA": "1",
+    "PROFESSOR": "PEDRO SOUCASAUX PIRES GARCIA",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Vibrações",
+    "SALA": "5006F",
+    "TURMA": "1",
+    "PROFESSOR": "SÉRGIO BARROS DA CUNHA",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Álgebra",
+    "SALA": "6058",
+    "TURMA": "2",
+    "PROFESSOR": "Roberto",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Análise Vetorial",
+    "SALA": "6053 / 6005",
+    "TURMA": "4",
+    "PROFESSOR": "Kevin",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Análise Vetorial",
+    "SALA": "6053",
+    "TURMA": "4",
+    "PROFESSOR": "Kevin",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Eletrônica V",
+    "SALA": "LEE 11J",
+    "TURMA": "1",
+    "PROFESSOR": "Paulo Sérgio Rodrigues Alonso",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:50",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Física Teórica II",
     "SALA": "5026F",
-    "DISCIPLINA": "Tratamento de Efluentes Líquidos e Reuso",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "TURMA": "1",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "ter"
   },
   {
-    "PROFESSOR": "Professor Silva",
-    "SALA": "5029F-LES",
-    "DISCIPLINA": "Tratamento de Esgoto I",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Proteção de Sistemas de Energia Elétrica I",
+    "SALA": "5092-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Francisco Reis Filho",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:50",
+    "DIA_DA_SEMANA": "ter"
   },
   {
-    "PROFESSOR": "Professora Tavares",
-    "SALA": "5029F-02",
-    "DISCIPLINA": "Tratamento e Disposição de Resíduos Sólidos",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Técnicas Digitais I",
+    "SALA": "LEE12",
+    "TURMA": "2",
+    "PROFESSOR": "Flávio Alencar do Rego Barros",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:50",
+    "DIA_DA_SEMANA": "ter"
   },
   {
-    "PROFESSOR": "Professor Urbano",
-    "SALA": "5005F",
-    "DISCIPLINA": "Algoritmos e Estrutura de Dados",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Eletrônica Industrial I",
+    "SALA": "LEE 11C",
+    "TURMA": "3",
+    "PROFESSOR": "Aluísio Alves De Melo Bento",
+    "HORÁRIO_INICIAL": "17:10",
+    "HORÁRIO_FINAL": "18:50",
+    "DIA_DA_SEMANA": "ter"
   },
   {
-    "PROFESSOR": "Professora Vieira",
-    "SALA": "5003F",
-    "DISCIPLINA": "Engenharia de Software",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Estágio Supervisionado VIII",
+    "SALA": "LEE 16",
+    "TURMA": "1",
+    "PROFESSOR": "Paulo BulkooL Batalheiro",
+    "HORÁRIO_INICIAL": "17:10",
+    "HORÁRIO_FINAL": "18:50",
+    "DIA_DA_SEMANA": "ter"
   },
   {
-    "PROFESSOR": "Professor Weiss",
-    "SALA": "5029F-01",
-    "DISCIPLINA": "Banco de Dados",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Geração de Energia Elétrica",
+    "SALA": "5098-F",
+    "TURMA": "T2",
+    "PROFESSOR": "Glaysson Muller",
+    "HORÁRIO_INICIAL": "17:10",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "ter"
   },
   {
-    "PROFESSOR": "Professora Ximenes",
-    "SALA": "5017A",
-    "DISCIPLINA": "Redes de Computadores",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Máquinas Hidráulicas I",
+    "SALA": "5004F",
+    "TURMA": "1",
+    "PROFESSOR": "DOUGLAS MONTEIRO ANDRADE",
+    "HORÁRIO_INICIAL": "17:10",
+    "HORÁRIO_FINAL": "18:50",
+    "DIA_DA_SEMANA": "ter"
   },
   {
-    "PROFESSOR": "Professor Zambelli",
+    "DISCIPLINA": "Princípios de Telecom I",
+    "SALA": "5097F",
+    "TURMA": "1",
+    "PROFESSOR": "Christian Fragoso",
+    "HORÁRIO_INICIAL": "17:10",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Resmat II",
+    "SALA": "5054-F",
+    "TURMA": "T3",
+    "PROFESSOR": "Elaine",
+    "HORÁRIO_INICIAL": "17:10",
+    "HORÁRIO_FINAL": "18:50",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Sistemas de Telecomunicações I",
+    "SALA": "LEE 15",
+    "TURMA": "1",
+    "PROFESSOR": "Christian Fragoso",
+    "HORÁRIO_INICIAL": "17:10",
+    "HORÁRIO_FINAL": "18:50",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Análise Vetorial",
+    "SALA": "5060",
+    "TURMA": "3",
+    "PROFESSOR": "Anael",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Análise Vetorial",
+    "SALA": "5060-F",
+    "TURMA": "T3",
+    "PROFESSOR": "Anael",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Cálculo III",
+    "SALA": "6010",
+    "TURMA": "1",
+    "PROFESSOR": "Yuri",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Eng Soc I",
+    "SALA": "5038-F",
+    "TURMA": "T4",
+    "PROFESSOR": "Leandro",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Equações Diferenciais Ordinárias",
+    "SALA": "6002",
+    "TURMA": "1",
+    "PROFESSOR": "André Furtado",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Fund. e Obras de Terra I",
+    "SALA": "5050-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Marcos Antonio",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Fundações I",
+    "SALA": "5002-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Armando",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Geotécnica",
+    "SALA": "5044-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Fernando",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Modelos Mat aplic à Eng Elétrica III",
+    "SALA": "5093F",
+    "TURMA": "3",
+    "PROFESSOR": "Téo Cerqueira Revoredo",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "20:30",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Modelos Probabilísticos em Telecomunicações",
+    "SALA": "5024F",
+    "TURMA": "1",
+    "PROFESSOR": "Alexandre De Oliveira Dal Forno",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "20:30",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Projeto de Graduação VII-A",
+    "SALA": "LEE 18",
+    "TURMA": "1",
+    "PROFESSOR": "Hélio da Motta Filho",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Química Teórica",
+    "SALA": "5058F",
+    "TURMA": "2",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Resmat III",
+    "SALA": "5038-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Rodolfo",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "20:30",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Resmat VII (MECAN)",
+    "SALA": "5004-F",
+    "TURMA": "T2",
+    "PROFESSOR": "Sarah",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "20:30",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Projeto de Graduação VII-B",
+    "SALA": "LEE 11J",
+    "TURMA": "1",
+    "PROFESSOR": "Paulo Sérgio Rodrigues Alonso",
+    "HORÁRIO_INICIAL": "18:50",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Estágio Supervisionado VII",
+    "SALA": "LEE 11C",
+    "TURMA": "1",
+    "PROFESSOR": "Flávio Alencar do Rego Barros",
+    "HORÁRIO_INICIAL": "19:40",
+    "HORÁRIO_FINAL": "20:30",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Introdução à Eng Elétrica e de Energia",
+    "SALA": "5098-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Glaysson Muller",
+    "HORÁRIO_INICIAL": "19:40",
+    "HORÁRIO_FINAL": "21:20",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Projeto de Graduação IIA",
+    "SALA": "5088-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Luciana",
+    "HORÁRIO_INICIAL": "21:20",
+    "HORÁRIO_FINAL": "22:10",
+    "DIA_DA_SEMANA": "ter"
+  },
+  {
+    "DISCIPLINA": "Administração Aplicada à Engenharia III",
+    "SALA": "8019F",
+    "TURMA": "T1",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Cálculo Numérico IV",
+    "SALA": "5060-F",
+    "TURMA": "T7",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Dinâmica dos Fluidos",
+    "SALA": "5002F",
+    "TURMA": "1",
+    "PROFESSOR": "ROBERT JACKEL",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Medidas Elétricas e Magnéticas",
+    "SALA": "5098-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Leonardo Alfredo Forero Mendoza",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Portos II",
+    "SALA": "5054-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Wilson",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "09:40",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Portos II",
+    "SALA": "5038-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Luiz Octavio",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Proteção de Sistemas de Energia Elétrica II",
+    "SALA": "5092-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Francisco Reis",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "09:40",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Transmissão de Energia Elétrica I",
+    "SALA": "5097-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Barbara Santos",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear VIII",
+    "SALA": "6002",
+    "TURMA": "1",
+    "PROFESSOR": "Amilcar",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Fenômenos de Transporte",
+    "SALA": "5006F",
+    "TURMA": "2",
+    "PROFESSOR": "RACHEL MANHÃES DE LUCENA",
+    "HORÁRIO_INICIAL": "07:50",
+    "HORÁRIO_FINAL": "09:40",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Mecânica dos Solos II",
+    "SALA": "5044-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Flávia Santos",
+    "HORÁRIO_INICIAL": "07:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Microondas I",
+    "SALA": "LEE 15",
+    "TURMA": "1",
+    "PROFESSOR": "Gil Roberto Vieira Pinheiro",
+    "HORÁRIO_INICIAL": "07:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Análise Estrutural II",
+    "SALA": "Labbas",
+    "TURMA": "T1",
+    "PROFESSOR": "José Guilherme",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "13:20",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Cálculo III",
+    "SALA": "6100",
+    "TURMA": "1",
+    "PROFESSOR": "Jeanne Deluiz",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Introdução à Economia III",
     "SALA": "5026F",
-    "DISCIPLINA": "Sistemas Operacionais",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "TURMA": "T1",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "qua"
   },
   {
-    "PROFESSOR": "Professora Azevedo",
-    "SALA": "5029F-LES",
-    "DISCIPLINA": "Inteligência Artificial",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Introdução à Economia III",
+    "SALA": "5032F",
+    "TURMA": "T2",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "qua"
   },
   {
-    "PROFESSOR": "Professor Bastos",
-    "SALA": "5029F-02",
-    "DISCIPLINA": "Desenvolvimento Web",
-    "TURMA": 1,
-    "DIA_DA_SEMANA": "sex",
-    "HORÁRIO_INICIAL": "19:30:00",
-    "HORÁRIO_FINAL": "22:00:00"
+    "DISCIPLINA": "Materiais de Construção I",
+    "SALA": "5038-F",
+    "TURMA": "T4",
+    "PROFESSOR": "Kissila / Luiz Octavio",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Pontes e Obras Especiais II",
+    "SALA": "5050-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Eudes",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Probabilidade e Estatística (Renov.)",
+    "SALA": "5060-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Ricardo Vela",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Projeto de Graduação VII-B",
+    "SALA": "LEE 10",
+    "TURMA": "1",
+    "PROFESSOR": "Paulo Sérgio Rodrigues Alonso",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Resmat VI (MECAN)",
+    "SALA": "5004-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Carolina",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Sistemas de Transportes II",
+    "SALA": "5088-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Bruno",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear III",
+    "SALA": "5.054",
+    "TURMA": "5",
+    "PROFESSOR": "Ricardo Camelier",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear III",
+    "SALA": "6134",
+    "TURMA": "5",
+    "PROFESSOR": "Ricardo Camelier",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear III",
+    "SALA": "5054-F",
+    "TURMA": "T5",
+    "PROFESSOR": "Ricardo",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Fenômenos de Transporte",
+    "SALA": "5008F",
+    "TURMA": "4",
+    "PROFESSOR": "RACHEL MANHÃES DE LUCENA",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Mecânica Técnica",
+    "SALA": "5006F",
+    "TURMA": "4",
+    "PROFESSOR": "SÉRGIO BARROS DA CUNHA",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Projeto de Graduação IX-B / X-B",
+    "SALA": "5092-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Leonardo Alfredo Forero Mendoza",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "ANÁLISE DE SISTEMA DE POTÊNCIA I",
+    "SALA": "5097-F",
+    "TURMA": "T1",
+    "PROFESSOR": "SERGIO ESCALANTE",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6038",
+    "TURMA": "15",
+    "PROFESSOR": "Anthony Garcia",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "RAV 64",
+    "TURMA": "15",
+    "PROFESSOR": "Mateus Gomes",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral II",
+    "SALA": "6005",
+    "TURMA": "1",
+    "PROFESSOR": "Nasim",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral II",
+    "SALA": "3126",
+    "TURMA": "4",
+    "PROFESSOR": "Guilherme Brandão",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral II",
+    "SALA": "5054-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Noemi",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral II",
+    "SALA": "5054",
+    "TURMA": "1",
+    "PROFESSOR": "Noemi",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral II",
+    "SALA": "6053",
+    "TURMA": "4",
+    "PROFESSOR": "Taynara",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Eletromagnetismo II",
+    "SALA": "5098-F",
+    "TURMA": "T1/2",
+    "PROFESSOR": "Carlos Eduardo",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "13:20",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Estruturas Metálicas",
+    "SALA": "5044-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Monique",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Introdução à Ciência dos Materiais",
+    "SALA": "5002F",
+    "TURMA": "1",
+    "PROFESSOR": "FÁBIO GATAMORTA",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Materiais de Construção I",
+    "SALA": "5038-F",
+    "TURMA": "T3",
+    "PROFESSOR": "Kissila / Luiz Octavio",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Projeto de Graduação VII-B",
+    "SALA": "LEE 16",
+    "TURMA": "2",
+    "PROFESSOR": "Paulo Sérgio Rodrigues Alonso",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Técnicas Digitais I",
+    "SALA": "LEE 11C",
+    "TURMA": "3 e 4",
+    "PROFESSOR": "Paulo BulkooL Batalheiro",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "13:20",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear",
+    "SALA": "6050",
+    "TURMA": "1",
+    "PROFESSOR": "Rosiane",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear III",
+    "SALA": "5060",
+    "TURMA": "1",
+    "PROFESSOR": "Ricardo Camelier",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "13:20",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear III",
+    "SALA": "6032",
+    "TURMA": "12",
+    "PROFESSOR": "Ruben",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear III",
+    "SALA": "5060-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Ricardo",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "13:20",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Mecânica Técnica",
+    "SALA": "5004F",
+    "TURMA": "1",
+    "PROFESSOR": "PEDRO SOUCASAUX PIRES GARCIA",
+    "HORÁRIO_INICIAL": "11:30",
+    "HORÁRIO_FINAL": "13:20",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Projeto de Graduação III",
+    "SALA": "5088-F",
+    "TURMA": "T1",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "11:30",
+    "HORÁRIO_FINAL": "13:20",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6134",
+    "TURMA": "2",
+    "PROFESSOR": "Liliana Jurado",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "5054",
+    "TURMA": "3",
+    "PROFESSOR": "Noemi",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6006",
+    "TURMA": "1",
+    "PROFESSOR": "José Mesquita",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6005",
+    "TURMA": "2",
+    "PROFESSOR": "Karina",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6058",
+    "TURMA": "3",
+    "PROFESSOR": "Nasim",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6106",
+    "TURMA": "2",
+    "PROFESSOR": "Taynara",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6134",
+    "TURMA": "3",
+    "PROFESSOR": "Liliana Jurado",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Cálculo IV",
+    "SALA": "6058",
+    "TURMA": "1",
+    "PROFESSOR": "André Lopes",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Infraestrutura de Transportes",
+    "SALA": "5093-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Bruno",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Introdução à Economia III",
+    "SALA": "5032F",
+    "TURMA": "T3",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Introdução à Economia III",
+    "SALA": "5026F",
+    "TURMA": "T5",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Introdução à Economia III",
+    "SALA": "8058F",
+    "TURMA": "T4",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Materiais de Construção I",
+    "SALA": "5038-F",
+    "TURMA": "T2",
+    "PROFESSOR": "Margareth",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Mecânica Técnica",
+    "SALA": "5002F",
+    "TURMA": "2",
+    "PROFESSOR": "SARAH SILVEIRA MENDES",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Mecânica dos Solos I",
+    "SALA": "4028B",
+    "TURMA": "T3",
+    "PROFESSOR": "Flávia",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Pontes I e Pontes e Obras I",
+    "SALA": "5044-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Eudes",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Química X",
+    "SALA": "5058F",
+    "TURMA": "3 e 4",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Resmat IV",
+    "SALA": "4024B",
+    "TURMA": "T2",
+    "PROFESSOR": "André",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Resmat IV",
+    "SALA": "5050-F",
+    "TURMA": "T2",
+    "PROFESSOR": "André",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear III",
+    "SALA": "6010",
+    "TURMA": "11",
+    "PROFESSOR": "Kevin",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "ANÁLISE DE SISTEMAS FÍSICOS",
+    "SALA": "5097-F",
+    "TURMA": "T1",
+    "PROFESSOR": "HAROLD DIAS DE MELLO JUNIOR",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Arquitetura II",
+    "SALA": "5044-F",
+    "TURMA": "T2",
+    "PROFESSOR": "Flávia Schmidt",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "CIRCUITOS ELÉTRICOS I",
+    "SALA": "5098-F",
+    "TURMA": "T1/2",
+    "PROFESSOR": "LENY SILVA",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "CIRCUITOS ELÉTRICOS I",
+    "SALA": "5092-F",
+    "TURMA": "T3/4",
+    "PROFESSOR": "LORENNA OLIVEIRA",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Fenômenos de Transporte",
+    "SALA": "5008F",
+    "TURMA": "5",
+    "PROFESSOR": "RACHEL MANHÃES DE LUCENADE OLIVEIRA",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Mecânica Técnica",
+    "SALA": "5004F",
+    "TURMA": "3",
+    "PROFESSOR": "BERNARDO FEIJÓ JUNQUEIRA",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Mecânica Técnica",
+    "SALA": "5006F",
+    "TURMA": "5",
+    "PROFESSOR": "CAROLINA SEIXAS MOREIRA",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Microprocessadores",
+    "SALA": "LEE 12",
+    "TURMA": "1",
+    "PROFESSOR": "José Franco Machado Do Amaral",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Administração Aplicada à Engenharia III",
+    "SALA": "5032F",
+    "TURMA": "T2",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Geometria Analítica e Cálculo Vetorial I",
+    "SALA": "5058-F",
+    "TURMA": "T2",
+    "PROFESSOR": "Felipe",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Hiperestática I",
+    "SALA": "5044-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Monique / Fernanda",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Instrumentação e Controle",
+    "SALA": "LEMC",
+    "TURMA": "1",
+    "PROFESSOR": "SÉRGIO BARROS DA CUNHA",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Introdução à Mecânica dos Solidos",
+    "SALA": "5054-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Rodrigo",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Introdução à Mecânica dos Sólidos",
+    "SALA": "5054-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Rodrigo",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Portos I",
+    "SALA": "5024-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Paulo",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Portos I",
+    "SALA": "5026-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Paulo",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear",
+    "SALA": "6053",
+    "TURMA": "1",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6096",
+    "TURMA": "16",
+    "PROFESSOR": "Miguel Soto",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6053",
+    "TURMA": "17",
+    "PROFESSOR": "Rubens Sucupira",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6038",
+    "TURMA": "16",
+    "PROFESSOR": "Anthony Garcia",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6096",
+    "TURMA": "17",
+    "PROFESSOR": "Miguel Soto",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Elementos de Lógica",
+    "SALA": "6118",
+    "TURMA": "2",
+    "PROFESSOR": "Tarcisio",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Transmissão de Corrente Contínua",
+    "SALA": "5092-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Barbara Santos",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear III",
+    "SALA": "6105-2",
+    "TURMA": "4",
+    "PROFESSOR": "Joice",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear III",
+    "SALA": "5.054",
+    "TURMA": "4",
+    "PROFESSOR": "Joice",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Análise Estrutural I",
+    "SALA": "5038-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Mª Fernanda",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral III",
+    "SALA": "6005",
+    "TURMA": "1",
+    "PROFESSOR": "Ronald",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral III",
+    "SALA": "6053",
+    "TURMA": "2",
+    "PROFESSOR": "Laurent Prouvée",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral III",
+    "SALA": "6010",
+    "TURMA": "1",
+    "PROFESSOR": "José Mesquita",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Mecânica Aplicada I",
+    "SALA": "5002F",
+    "TURMA": "1",
+    "PROFESSOR": "BERNARDO FEIJÓ JUNQUEIRA",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Mecânica dos Solos I",
+    "SALA": "5044-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Ana",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Mecânica dos Solos I",
+    "SALA": "5058-F",
+    "TURMA": "T2",
+    "PROFESSOR": "Feijó",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Mecânica dos Solos II",
+    "SALA": "5058-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Flávia Santos",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Medidas em Sistemas de Energia",
+    "SALA": "5097-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Leonardo Alfredo Forero Mendoza",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:50",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Planej. e Controle de Obras",
+    "SALA": "5026-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Paulo",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:50",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Processos de Fabricação II",
+    "SALA": "5004F",
+    "TURMA": "1",
+    "PROFESSOR": "PEDRO SOUCASAUX PIRES GARCIA",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Vibrações",
+    "SALA": "5006F",
+    "TURMA": "1",
+    "PROFESSOR": "SÉRGIO BARROS DA CUNHA",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear",
+    "SALA": "6050",
+    "TURMA": "2",
+    "PROFESSOR": "Alejandro",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear",
+    "SALA": "6100",
+    "TURMA": "1",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Elementos de Lógica",
+    "SALA": "6118",
+    "TURMA": "1",
+    "PROFESSOR": "Tarcisio",
+    "HORÁRIO_INICIAL": "17:10",
+    "HORÁRIO_FINAL": "18:50",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Eletromagnetismo I",
+    "SALA": "5092-F",
+    "TURMA": "T2",
+    "PROFESSOR": "Bismarck",
+    "HORÁRIO_INICIAL": "17:10",
+    "HORÁRIO_FINAL": "18:50",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Redes de Comunicações II",
+    "SALA": "LEE 18",
+    "TURMA": "1",
+    "PROFESSOR": "Gil Roberto Vieira Pinheiro",
+    "HORÁRIO_INICIAL": "17:10",
+    "HORÁRIO_FINAL": "18:50",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Sistemas de Transportes I",
+    "SALA": "5050-F",
+    "TURMA": "T1",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "17:10",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Álgebra",
+    "SALA": "6105-2",
+    "TURMA": "1",
+    "PROFESSOR": "Joice",
+    "HORÁRIO_INICIAL": "17:10",
+    "HORÁRIO_FINAL": "18:50",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Análise Vetorial",
+    "SALA": "5.054",
+    "TURMA": "6",
+    "PROFESSOR": "Steban",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Análise Vetorial",
+    "SALA": "5054-F",
+    "TURMA": "T6",
+    "PROFESSOR": "Steban",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6106",
+    "TURMA": "1",
+    "PROFESSOR": "Taynara",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6053",
+    "TURMA": "1",
+    "PROFESSOR": "Rubens Sucupira",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Eletrotécnica II",
+    "SALA": "5098-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Carlos Aparecido",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Planejamento e Controle de Produção",
+    "SALA": "LEMC",
+    "TURMA": "1",
+    "PROFESSOR": "SÉRGIO BARROS DA CUNHA",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Probabilidade e Estatística III",
+    "SALA": "5058-F",
+    "TURMA": "T5",
+    "PROFESSOR": "Rodrigo Alves",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Resmat VII (MECAN)",
+    "SALA": "5004-F",
+    "TURMA": "T2",
+    "PROFESSOR": "Sarah",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "20:30",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Técnicas Digitais I",
+    "SALA": "5088F",
+    "TURMA": "1 e 2",
+    "PROFESSOR": "Hélio da Motta Filho",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "20:30",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "CONVERSÃO ELETROMECÂNICA DE ENERGIA II",
+    "SALA": "5098-F",
+    "TURMA": "T2",
+    "PROFESSOR": "CARLOS APARECIDO",
+    "HORÁRIO_INICIAL": "19:40",
+    "HORÁRIO_FINAL": "21:20",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral III",
+    "SALA": "6097",
+    "TURMA": "2",
+    "PROFESSOR": "Anthony Garcia",
+    "HORÁRIO_INICIAL": "19:40",
+    "HORÁRIO_FINAL": "21:20",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Cálculo I",
+    "SALA": "6058",
+    "TURMA": "2",
+    "PROFESSOR": "Miguel Soto",
+    "HORÁRIO_INICIAL": "19:40",
+    "HORÁRIO_FINAL": "21:20",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Introdução à Economia III",
+    "SALA": "5026F",
+    "TURMA": "T6",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "19:40",
+    "HORÁRIO_FINAL": "21:20",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "Administração Aplicada à Engenharia III",
+    "SALA": "5032F",
+    "TURMA": "T3",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "20:30",
+    "HORÁRIO_FINAL": "22:10",
+    "DIA_DA_SEMANA": "qua"
+  },
+  {
+    "DISCIPLINA": "ANÁLISE DE SISTEMAS FÍSICOS I",
+    "SALA": "5097-F",
+    "TURMA": "T1",
+    "PROFESSOR": "ANDRÉ ALVES",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Arquitetura II",
+    "SALA": "Labbas",
+    "TURMA": "T1",
+    "PROFESSOR": "Flávia Schmidt",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "CIRCUITOS ELÉTRICOS II",
+    "SALA": "5098-F",
+    "TURMA": "T3/4",
+    "PROFESSOR": "LORENNA OLIVEIRA",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Concreto Armado II",
+    "SALA": "5008-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Beth",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "09:40",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Concreto Armado II",
+    "SALA": "5054-F",
+    "TURMA": "T2",
+    "PROFESSOR": "Gisele",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "09:40",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral II",
+    "SALA": "5058",
+    "TURMA": "13",
+    "PROFESSOR": "Reyes",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral II",
+    "SALA": "6032",
+    "TURMA": "1",
+    "PROFESSOR": "Guilherme Brandão",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral II",
+    "SALA": "5058-F",
+    "TURMA": "T13",
+    "PROFESSOR": "Reyes",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral III",
+    "SALA": "6032",
+    "TURMA": "1",
+    "PROFESSOR": "Guilherme Brandão",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Cálculo II",
+    "SALA": "6105-2",
+    "TURMA": "1",
+    "PROFESSOR": "Renata",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Física Teórica Experimental II",
+    "SALA": "5032F",
+    "TURMA": "1, 2 e 3",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Física Teórica Experimental II",
+    "SALA": "5026F",
+    "TURMA": "4, 5 e 6",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Materiais de Construção Mecânica I",
+    "SALA": "5004F",
+    "TURMA": "1",
+    "PROFESSOR": "JOSE ROBERTO MORAES D'ALMEIDA",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Máquinas Térmicas e Hidráulicas I",
+    "SALA": "5002F",
+    "TURMA": "1",
+    "PROFESSOR": "LUZ ELENA PEÑARANDA CHENCHE",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Proteção de Sistemas de Energia Elétrica II",
+    "SALA": "5092-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Francisco Reis",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Resmat III",
+    "SALA": "5050-F",
+    "TURMA": "T2",
+    "PROFESSOR": "Fernanda",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "09:40",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Tópicos Especiais em Eletrônica",
+    "SALA": "LEE 11J",
+    "TURMA": "1",
+    "PROFESSOR": "Aloísio Alves de Melo Bento",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "09:40",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Edificações II",
+    "SALA": "5044-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Bruno Mota",
+    "HORÁRIO_INICIAL": "07:50",
+    "HORÁRIO_FINAL": "09:40",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Eletrônica IV",
+    "SALA": "LEE 18",
+    "TURMA": "1",
+    "PROFESSOR": "Flávio Alencar do Rego Barros",
+    "HORÁRIO_INICIAL": "07:50",
+    "HORÁRIO_FINAL": "09:40",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Eletrônica IV",
+    "SALA": "LEE 10",
+    "TURMA": "1",
+    "PROFESSOR": "Flávio Alencar do Rego Barros",
+    "HORÁRIO_INICIAL": "07:50",
+    "HORÁRIO_FINAL": "09:40",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Empreend. e Inovação",
+    "SALA": "6104-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Elaine Borin",
+    "HORÁRIO_INICIAL": "07:50",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear III",
+    "SALA": "6.106",
+    "TURMA": "3",
+    "PROFESSOR": "Lucivânio",
+    "HORÁRIO_INICIAL": "07:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear III",
+    "SALA": "6105-2",
+    "TURMA": "3",
+    "PROFESSOR": "Lucivânio",
+    "HORÁRIO_INICIAL": "07:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "ANÁLISE DE SISTEMA DE POTÊNCIA I",
+    "SALA": "5097-F",
+    "TURMA": "T1",
+    "PROFESSOR": "SERGIO ESCALANTE",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral II",
+    "SALA": "6009",
+    "TURMA": "2",
+    "PROFESSOR": "Maurício",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral II",
+    "SALA": "6053",
+    "TURMA": "3",
+    "PROFESSOR": "Taynara",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral II",
+    "SALA": "6118",
+    "TURMA": "12",
+    "PROFESSOR": "Hamilton Simões",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral II",
+    "SALA": "6058",
+    "TURMA": "2",
+    "PROFESSOR": "Guilherme Brandão",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral II",
+    "SALA": "6005",
+    "TURMA": "2",
+    "PROFESSOR": "Nasim",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral II",
+    "SALA": "6009",
+    "TURMA": "3",
+    "PROFESSOR": "Maurício",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral III",
+    "SALA": "6058",
+    "TURMA": "2",
+    "PROFESSOR": "Guilherme Brandão",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Dinâmica dos Fluidos",
+    "SALA": "5002F",
+    "TURMA": "1",
+    "PROFESSOR": "ROBERT JACKEL",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Elementos de Lógica",
+    "SALA": "6053",
+    "TURMA": "3",
+    "PROFESSOR": "Jéssica",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Eng Soc II",
+    "SALA": "5038-F",
+    "TURMA": "T2",
+    "PROFESSOR": "Nacif",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Fenômenos de Transporte",
+    "SALA": "5032F",
+    "TURMA": "1",
+    "PROFESSOR": "DOUGLAS MONTEIRO ANDRADE",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Instalações Industriais",
+    "SALA": "5004F",
+    "TURMA": "1",
+    "PROFESSOR": "LUZ ELENA PEÑARANDA CHENCHE",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Materiais de Construção I",
+    "SALA": "5092F",
+    "TURMA": "T4",
+    "PROFESSOR": "Kissila / Luiz Octavio",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Mecânica dos Fluidos III",
+    "SALA": "5006F",
+    "TURMA": "1",
+    "PROFESSOR": "NORBERTO MANGIAVACCHI",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Urbanismo",
+    "SALA": "5098F",
+    "TURMA": "T3",
+    "PROFESSOR": "Luciana",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral III",
+    "SALA": "6096",
+    "TURMA": "6",
+    "PROFESSOR": "Reyes",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral III",
+    "SALA": "6105-2",
+    "TURMA": "7",
+    "PROFESSOR": "Cláudia Concordido",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Eletrônica IV",
+    "SALA": "LEE 18",
+    "TURMA": "1",
+    "PROFESSOR": "Flávio Alencar do Rego Barros",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Eng. Custos",
+    "SALA": "4028B",
+    "TURMA": "T1",
+    "PROFESSOR": "Bruno Mota",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Física Teórica Experimental III",
+    "SALA": "5026F",
+    "TURMA": "1 e 2",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Física Teórica Experimental III",
+    "SALA": "5058F",
+    "TURMA": "3 e 4",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Física Teórica Experimental III",
+    "SALA": "5008F",
+    "TURMA": "5 e 6",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Hiperestática II",
+    "SALA": "5050-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Muñoz",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Sistemas de Televisão",
+    "SALA": "LEE 11C",
+    "TURMA": "1",
+    "PROFESSOR": "Lisandro Lovisolo",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "CIRCUITOS ELÉTRICOS III / IV",
+    "SALA": "5098-F",
+    "TURMA": "T1/2",
+    "PROFESSOR": "LENY MEDEIROS",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Cálculo III",
+    "SALA": "6038",
+    "TURMA": "2",
+    "PROFESSOR": "Jeanine Denise",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Cálculo III",
+    "SALA": "6100",
+    "TURMA": "1",
+    "PROFESSOR": "Jeanne Deluiz",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Cálculo IV",
+    "SALA": "6006",
+    "TURMA": "1",
+    "PROFESSOR": "André Lopes",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "13:20",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Cálculo IV",
+    "SALA": "6006",
+    "TURMA": "2",
+    "PROFESSOR": "Filipe Jorio",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "13:20",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Elementos de Lógica",
+    "SALA": "6053",
+    "TURMA": "4",
+    "PROFESSOR": "Jéssica",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Eng Soc I",
+    "SALA": "5038-F",
+    "TURMA": "T3",
+    "PROFESSOR": "Luciana",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Física Teórica Experimental II",
+    "SALA": "5032F",
+    "TURMA": "7, 8 e 9",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Geração de Energia Elétrica",
+    "SALA": "5092-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Antonio Guilherme",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Hiperestática I",
+    "SALA": "5044-F",
+    "TURMA": "T2",
+    "PROFESSOR": "Rodrigo",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "INTRODUÇÃO A ENGENHARIA AMBIENTAL",
+    "SALA": "5097F",
+    "TURMA": "T4",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Introdução à Engenharia Ambiental",
+    "SALA": "5097F",
+    "TURMA": "T4",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Materiais de Construção II",
+    "SALA": "4024B",
+    "TURMA": "T1",
+    "PROFESSOR": "Kissila",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Resmat II",
+    "SALA": "5054-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Elaine",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear III",
+    "SALA": "6106",
+    "TURMA": "10",
+    "PROFESSOR": "Lucivânio",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Microondas I",
+    "SALA": "LEE 15",
+    "TURMA": "1",
+    "PROFESSOR": "Gil Roberto Vieira Pinheiro",
+    "HORÁRIO_INICIAL": "11:30",
+    "HORÁRIO_FINAL": "13:20",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6058",
+    "TURMA": "4",
+    "PROFESSOR": "Nasim",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6010",
+    "TURMA": "5",
+    "PROFESSOR": "Raphael Constant",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6058",
+    "TURMA": "3",
+    "PROFESSOR": "Nasim",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6010",
+    "TURMA": "4",
+    "PROFESSOR": "Raphael Constant",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6058",
+    "TURMA": "5",
+    "PROFESSOR": "André Lopes",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Eletromagnetismo III",
+    "SALA": "5097-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Fontoura",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Estruturas de Madeira",
+    "SALA": "5044-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Glauco",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Estágio Superv IX / X",
+    "SALA": "5092-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Villas",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Física Teórica Experimental II",
+    "SALA": "5060F",
+    "TURMA": "10, 11 e 12",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Física Teórica Experimental III",
+    "SALA": "5008F",
+    "TURMA": "7 e 8",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Física Teórica Experimental III",
+    "SALA": "5058F",
+    "TURMA": "9 e 10",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Mecânica Técnica",
+    "SALA": "5002F",
+    "TURMA": "2",
+    "PROFESSOR": "SARAH SILVEIRA MENDES",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Mecânica dos Fluidos V",
+    "SALA": "5006F",
+    "TURMA": "1",
+    "PROFESSOR": "ROGERIO M S DA GAMA",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Pontes I e Pontes e Obras I",
+    "SALA": "5050-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Eudes",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Química X",
+    "SALA": "5032F",
+    "TURMA": "5 e 6",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Resmat Básica",
+    "SALA": "5054-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Muñoz",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Resmat IV",
+    "SALA": "4024B",
+    "TURMA": "T2",
+    "PROFESSOR": "André",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Técnicas Digitais II",
+    "SALA": "LEE 13",
+    "TURMA": "3",
+    "PROFESSOR": "Marcelo Gonçalves Rubinstein",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Urbanismo",
+    "SALA": "5038-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Luciana",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Análise Vetorial",
+    "SALA": "6050",
+    "TURMA": "5",
+    "PROFESSOR": "Lucivânio",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "ELETROMAGNETISMO I",
+    "SALA": "5098-F",
+    "TURMA": "T1/3",
+    "PROFESSOR": "CARLOS EDUARDO",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Termodinâmica Aplicada II",
+    "SALA": "5004F",
+    "TURMA": "1",
+    "PROFESSOR": "LUZ ELENA PEÑARANDA CHENCHE",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Técnicas de Pulso",
+    "SALA": "LEE 10",
+    "TURMA": "1",
+    "PROFESSOR": "Frederico Celestino Pontes",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Arquitetura I",
+    "SALA": "4024B",
+    "TURMA": "T2",
+    "PROFESSOR": "Giovana",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Fenômenos de Transporte",
+    "SALA": "5060F",
+    "TURMA": "1",
+    "PROFESSOR": "ROGERIO MARTINS SALDANHA DA GAMA",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Mecânica dos Solos I",
+    "SALA": "5044-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Ana",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Mecânica dos Solos I",
+    "SALA": "5006-F",
+    "TURMA": "T2",
+    "PROFESSOR": "Feijó",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Resmat II",
+    "SALA": "5054-F",
+    "TURMA": "T2",
+    "PROFESSOR": "Elaine",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Transmissão de Energia Elétrica II",
+    "SALA": "5092-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Villas",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear III",
+    "SALA": "6006",
+    "TURMA": "2",
+    "PROFESSOR": "Hernando",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear III",
+    "SALA": "6134",
+    "TURMA": "6",
+    "PROFESSOR": "Claudio Plinio",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear III",
+    "SALA": "3097",
+    "TURMA": "6",
+    "PROFESSOR": "Claudio Plinio",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Análise Vetorial",
+    "SALA": "6050",
+    "TURMA": "1",
+    "PROFESSOR": "Anael",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "CIRCUITOS ELÉTRICOS III",
+    "SALA": "5097-F",
+    "TURMA": "T1",
+    "PROFESSOR": "SERGIO ESCALANTE",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6105-2",
+    "TURMA": "13",
+    "PROFESSOR": "João Alfredo",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "RAV 64",
+    "TURMA": "14",
+    "PROFESSOR": "Mateus Gomes",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6139",
+    "TURMA": "13",
+    "PROFESSOR": "Frederico Rossetto",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6105-2",
+    "TURMA": "14",
+    "PROFESSOR": "João Alfredo",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral II",
+    "SALA": "RAV 64",
+    "TURMA": "10",
+    "PROFESSOR": "Catalina Freijo",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral II",
+    "SALA": "6106",
+    "TURMA": "11",
+    "PROFESSOR": "Crisia Ramos",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral II",
+    "SALA": "6118",
+    "TURMA": "14",
+    "PROFESSOR": "Reyes",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Física Teórica Experimental III",
+    "SALA": "5008F",
+    "TURMA": "11 e 12",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Física Teórica Experimental III",
+    "SALA": "5058F",
+    "TURMA": "13 e 14",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Física Teórica Experimental III",
+    "SALA": "5032F/5026F",
+    "TURMA": "15 e 16",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Máquinas Hidráulicas I",
+    "SALA": "5004F",
+    "TURMA": "1",
+    "PROFESSOR": "DOUGLAS MONTEIRO ANDRADE",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Técnicas Digitais I",
+    "SALA": "LEE 12",
+    "TURMA": "1",
+    "PROFESSOR": "Flávio Alencar do Rego Barros",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Técnicas Digitais I",
+    "SALA": "LEE12",
+    "TURMA": "1",
+    "PROFESSOR": "Flávio Alencar do Rego Barros",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Tópicos Especiais em Telecomunicações I",
+    "SALA": "LEE 11J",
+    "TURMA": "1",
+    "PROFESSOR": "Christian Fraguas",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Álgebra",
+    "SALA": "6058",
+    "TURMA": "2",
+    "PROFESSOR": "Roberto",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Análise Vetorial",
+    "SALA": "6053 / 6005",
+    "TURMA": "4",
+    "PROFESSOR": "Kevin",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Análise Vetorial",
+    "SALA": "6005",
+    "TURMA": "4",
+    "PROFESSOR": "Kevin",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Arquitetura I",
+    "SALA": "5038-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Giovana",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Eletrônica V",
+    "SALA": "LEE 10 OU LEE 13",
+    "TURMA": "1",
+    "PROFESSOR": "Paulo Sérgio Rodrigues Alonso",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Fundações I",
+    "SALA": "5050-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Armando",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:50",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Física Teórica II",
+    "SALA": "5026F",
+    "TURMA": "1",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Hiperestática I",
+    "SALA": "5044-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Monique / Fernanda",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Modelos Mat aplic à Eng Elétrica I",
+    "SALA": "5093F",
+    "TURMA": "1",
+    "PROFESSOR": "José Rodolfo Souza",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Modelos Mat aplic à Eng Elétrica I",
+    "SALA": "5088F",
+    "TURMA": "2",
+    "PROFESSOR": "Bismarck Costa Lima",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Modelos Mat aplic à Eng Elétrica I",
+    "SALA": "LEE 15",
+    "TURMA": "3",
+    "PROFESSOR": "Fernando Lopes Cardoso",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Modelos Mat aplic à Eng Elétrica I",
+    "SALA": "LEE 18",
+    "TURMA": "4",
+    "PROFESSOR": "Victor Hugo Pereira Rodrigues",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Proteção de Sistemas de Energia Elétrica I",
+    "SALA": "5092-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Francisco Reis Filho",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Química X",
+    "SALA": "5032F",
+    "TURMA": "7 e 8",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Materiais Elétricos e Magnéticos",
+    "SALA": "5097-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Carlos Eduardo",
+    "HORÁRIO_INICIAL": "17:10",
+    "HORÁRIO_FINAL": "18:50",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Princípios de Telecom I",
+    "SALA": "5006F",
+    "TURMA": "1",
+    "PROFESSOR": "Christian Fragoso",
+    "HORÁRIO_INICIAL": "17:10",
+    "HORÁRIO_FINAL": "18:50",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Redes de Comunicações II",
+    "SALA": "LEE 12",
+    "TURMA": "1",
+    "PROFESSOR": "Gil Roberto Vieira Pinheiro",
+    "HORÁRIO_INICIAL": "17:10",
+    "HORÁRIO_FINAL": "18:50",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Resmat II",
+    "SALA": "5054-F",
+    "TURMA": "T3",
+    "PROFESSOR": "Elaine",
+    "HORÁRIO_INICIAL": "17:10",
+    "HORÁRIO_FINAL": "18:50",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Resmat VII (MECAN)",
+    "SALA": "5004-F",
+    "TURMA": "T2",
+    "PROFESSOR": "Sarah",
+    "HORÁRIO_INICIAL": "17:10",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "ANÁLISE DE SISTEMA DE POTÊNCIA II",
+    "SALA": "5092-F",
+    "TURMA": "T1",
+    "PROFESSOR": "SERGIO ESCALANTE",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Análise Vetorial",
+    "SALA": "5060",
+    "TURMA": "3",
+    "PROFESSOR": "Anael",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Análise Vetorial",
+    "SALA": "5060-F",
+    "TURMA": "T3",
+    "PROFESSOR": "Anael",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Cálculo III",
+    "SALA": "6010",
+    "TURMA": "1",
+    "PROFESSOR": "Yuri",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Equações Diferenciais Ordinárias",
+    "SALA": "6002",
+    "TURMA": "1",
+    "PROFESSOR": "André Furtado",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Geração de Energia Elétrica",
+    "SALA": "5098-F",
+    "TURMA": "T2",
+    "PROFESSOR": "Glaysson Muller",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Modelos Mat aplic à Eng Elétrica III",
+    "SALA": "5093F",
+    "TURMA": "3",
+    "PROFESSOR": "Téo Cerqueira Revoredo",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Modelos Probabilísticos em Telecomunicações",
+    "SALA": "5024F",
+    "TURMA": "1",
+    "PROFESSOR": "Alexandre De Oliveira Dal Forno",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Resmat III",
+    "SALA": "5038-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Rodolfo",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "20:30",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Medidas em Sistemas de Energia",
+    "SALA": "5097-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Leonardo Alfredo Forero Mendoza",
+    "HORÁRIO_INICIAL": "18:50",
+    "HORÁRIO_FINAL": "20:30",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Transmissão de Calor II",
+    "SALA": "FT 911",
+    "TURMA": "1",
+    "PROFESSOR": "EDUARDO DIAS CORRÊA",
+    "HORÁRIO_INICIAL": "18:50",
+    "HORÁRIO_FINAL": "20:30",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "ELETRICIDADE II",
+    "SALA": "5098-F",
+    "TURMA": "T7/8",
+    "PROFESSOR": "GLAYSSON MULLER",
+    "HORÁRIO_INICIAL": "19:40",
+    "HORÁRIO_FINAL": "21:20",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "Estágio Supervisionado VII",
+    "SALA": "LEE 11C",
+    "TURMA": "1",
+    "PROFESSOR": "Flávio Alencar do Rego Barros",
+    "HORÁRIO_INICIAL": "19:40",
+    "HORÁRIO_FINAL": "20:30",
+    "DIA_DA_SEMANA": "qui"
+  },
+  {
+    "DISCIPLINA": "ANÁLISE DE SISTEMAS FÍSICOS I",
+    "SALA": "5098-F",
+    "TURMA": "T1",
+    "PROFESSOR": "ANDRÉ ALVES",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "09:40",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Administração Aplicada à Engenharia III",
+    "SALA": "5058F",
+    "TURMA": "T1",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "DISTRIBUIÇÃO DE ENERGIA ELÉTRICA",
+    "SALA": "5092-F",
+    "TURMA": "T1",
+    "PROFESSOR": "ROMULO SALES",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "09:40",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Fibras Óticas e Dispositivos",
+    "SALA": "5088F",
+    "TURMA": "1",
+    "PROFESSOR": "Alexandre De Oliveira Dal Forno",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Portos II",
+    "SALA": "5038-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Luiz Octavio",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "09:40",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Química XI",
+    "SALA": "5032F",
+    "TURMA": "3 e 4",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Transmissão de Energia Elétrica I",
+    "SALA": "5097-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Barbara Santos",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "09:40",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Tópicos Esp. em Mec. Solos",
+    "SALA": "Fonseca Teles II",
+    "TURMA": "T1",
+    "PROFESSOR": "Feijó",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Fenômenos de Transporte",
+    "SALA": "5006F",
+    "TURMA": "2",
+    "PROFESSOR": "RACHEL MANHÃES DE LUCENA",
+    "HORÁRIO_INICIAL": "07:50",
+    "HORÁRIO_FINAL": "09:40",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Mecânica dos Solos II",
+    "SALA": "5044-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Flávia Santos",
+    "HORÁRIO_INICIAL": "07:50",
+    "HORÁRIO_FINAL": "09:40",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Síntese e Filtros",
+    "SALA": "LEE 11J",
+    "TURMA": "1",
+    "PROFESSOR": "Paulo BulkooL Batalheiro",
+    "HORÁRIO_INICIAL": "07:50",
+    "HORÁRIO_FINAL": "09:40",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Tópicos Esp. em Mec. Solos",
+    "SALA": "Fonseca Teles II",
+    "TURMA": "T1",
+    "PROFESSOR": "Feijó",
+    "HORÁRIO_INICIAL": "07:50",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear III",
+    "SALA": "5.054",
+    "TURMA": "5",
+    "PROFESSOR": "Ricardo Camelier",
+    "HORÁRIO_INICIAL": "07:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear III",
+    "SALA": "6134",
+    "TURMA": "5",
+    "PROFESSOR": "Ricardo Camelier",
+    "HORÁRIO_INICIAL": "07:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear III",
+    "SALA": "5054-F",
+    "TURMA": "T5",
+    "PROFESSOR": "Ricardo",
+    "HORÁRIO_INICIAL": "07:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Probabilidade e Estatística (Renov.)",
+    "SALA": "5060-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Ricardo Vela",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Tóp. Esp. em Estr/em Transp I (Estr/Tran)",
+    "SALA": "5002-F",
+    "TURMA": "T1/T1",
+    "PROFESSOR": "Mª Fernanda",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "10:30",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "ANÁLISE DE SISTEMAS FÍSICOS",
+    "SALA": "5092-F",
+    "TURMA": "T2",
+    "PROFESSOR": "ANDRÉ ALVES",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Edificações II",
+    "SALA": "5038-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Bruno Mota",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Estradas e Transportes II",
+    "SALA": "5050-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Marina",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Estruturas de Madeira",
+    "SALA": "5050-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Marina",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Fenômenos de Transporte",
+    "SALA": "5008F",
+    "TURMA": "4",
+    "PROFESSOR": "RACHEL MANHÃES DE LUCENA",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Microeletrônica",
+    "SALA": "LEE 11J",
+    "TURMA": "1",
+    "PROFESSOR": "Frederico Celestino Pontes",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Sistemas de Transportes II",
+    "SALA": "5044-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Bruno",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "TÓP. ESPEC. EM ELETRICIDADE INDUSTRIAL II",
+    "SALA": "5097-F",
+    "TURMA": "T1",
+    "PROFESSOR": "VILLAS",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "13:20",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Técnicas Digitais I",
+    "SALA": "LEE 13",
+    "TURMA": "3",
+    "PROFESSOR": "Paulo BulkooL Batalheiro",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Técnicas Digitais II",
+    "SALA": "LEE 12",
+    "TURMA": "2",
+    "PROFESSOR": "Jorge Luis Machado do Amaral",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Tópicos Especiais em Eletricidade Industrial II",
+    "SALA": "5097-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Villas",
+    "HORÁRIO_INICIAL": "09:40",
+    "HORÁRIO_FINAL": "13:20",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Hidráulica I",
+    "SALA": "5002F",
+    "TURMA": "1",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Introdução à Ciência dos Materiais",
+    "SALA": "5002F",
+    "TURMA": "1",
+    "PROFESSOR": "FÁBIO GATAMORTA",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Laboratório Mec Solos",
+    "SALA": "Fonseca Teles I",
+    "TURMA": "T3",
+    "PROFESSOR": "Marcos",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "11:30",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear",
+    "SALA": "6050",
+    "TURMA": "1",
+    "PROFESSOR": "Rosiane",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear III",
+    "SALA": "5060",
+    "TURMA": "1",
+    "PROFESSOR": "Ricardo Camelier",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear III",
+    "SALA": "5060-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Ricardo",
+    "HORÁRIO_INICIAL": "10:40",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Eletromagnetismo II",
+    "SALA": "5098-F",
+    "TURMA": "T1/2",
+    "PROFESSOR": "Carlos Eduardo",
+    "HORÁRIO_INICIAL": "11:30",
+    "HORÁRIO_FINAL": "13:20",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Laboratório Mec Solos",
+    "SALA": "Fonseca Teles I",
+    "TURMA": "T2",
+    "PROFESSOR": "Feijó",
+    "HORÁRIO_INICIAL": "11:30",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Técnicas Digitais I",
+    "SALA": "LEE 13",
+    "TURMA": "4",
+    "PROFESSOR": "Paulo BulkooL Batalheiro",
+    "HORÁRIO_INICIAL": "11:30",
+    "HORÁRIO_FINAL": "13:20",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Técnicas Digitais II",
+    "SALA": "LEE 12",
+    "TURMA": "1",
+    "PROFESSOR": "Jorge Luis Machado do Amaral",
+    "HORÁRIO_INICIAL": "11:30",
+    "HORÁRIO_FINAL": "13:20",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Análise Vetorial",
+    "SALA": "5058",
+    "TURMA": "2",
+    "PROFESSOR": "Gabriel",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Análise Vetorial",
+    "SALA": "5058-F",
+    "TURMA": "T2",
+    "PROFESSOR": "Gabriel",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6105-2",
+    "TURMA": "2",
+    "PROFESSOR": "Liliana Jurado",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "5054",
+    "TURMA": "3",
+    "PROFESSOR": "Noemi",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6106",
+    "TURMA": "2",
+    "PROFESSOR": "Taynara",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6105-2",
+    "TURMA": "3",
+    "PROFESSOR": "Liliana Jurado",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Edificações I",
+    "SALA": "5038-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Bruno Mota",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Eng Soc I",
+    "SALA": "5054-F",
+    "TURMA": "T2",
+    "PROFESSOR": "Marina",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Laboratório Mec Solos",
+    "SALA": "Fonseca Teles I",
+    "TURMA": "T1",
+    "PROFESSOR": "Feijó",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "13:20",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Mecânica Aplicada I",
+    "SALA": "5002F",
+    "TURMA": "1",
+    "PROFESSOR": "BERNARDO FEIJÓ JUNQUEIRA",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Mecânica dos Solos II",
+    "SALA": "5050-F",
+    "TURMA": "T2",
+    "PROFESSOR": "Marcos",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Química XI",
+    "SALA": "A definir",
+    "TURMA": "5 e 6",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "12:30",
+    "HORÁRIO_FINAL": "14:10",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "CONVERSÃO ELETROMECÂNICA DE ENERGIA I",
+    "SALA": "5097-F",
+    "TURMA": "T2/3",
+    "PROFESSOR": "OSCAR ZEVALLOS",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "ELETROMAGNETISMO I",
+    "SALA": "5098-F",
+    "TURMA": "T1/3",
+    "PROFESSOR": "CARLOS EDUARDO",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Eletromagnetismo I",
+    "SALA": "5092-F",
+    "TURMA": "T1/3",
+    "PROFESSOR": "Carlos Eduardo",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Fenômenos de Transporte",
+    "SALA": "5008F",
+    "TURMA": "5",
+    "PROFESSOR": "RACHEL MANHÃES DE LUCENADE OLIVEIRA",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Infraestrutura de Transportes",
+    "SALA": "5093-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Bruno",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Mecânica Técnica",
+    "SALA": "5004F",
+    "TURMA": "3",
+    "PROFESSOR": "BERNARDO FEIJÓ JUNQUEIRA",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Mecânica dos Solos I",
+    "SALA": "4028B",
+    "TURMA": "T3",
+    "PROFESSOR": "Flávia",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Técnicas de Pulso",
+    "SALA": "LEE 13",
+    "TURMA": "1",
+    "PROFESSOR": "Frederico Celestino Pontes",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "15:10",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Tópicos Esp. em Mec. Solos",
+    "SALA": "Fonseca Teles II",
+    "TURMA": "T2",
+    "PROFESSOR": "Bruno Lima",
+    "HORÁRIO_INICIAL": "13:20",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Administração Aplicada à Engenharia III",
+    "SALA": "5032F",
+    "TURMA": "T2",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Análise Estrutural I",
+    "SALA": "5038-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Mª Fernanda",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Probabilidade e Estatística III",
+    "SALA": "5060-F",
+    "TURMA": "T6",
+    "PROFESSOR": "Renato Monteiro",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Transmissão de Energia Elétrica II",
+    "SALA": "5092-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Villas",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "16:00",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear III",
+    "SALA": "6105-2",
+    "TURMA": "4",
+    "PROFESSOR": "Joice",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear III",
+    "SALA": "5.054",
+    "TURMA": "4",
+    "PROFESSOR": "Joice",
+    "HORÁRIO_INICIAL": "14:20",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "CIRCUITOS ELÉTRICOS III",
+    "SALA": "5097-F",
+    "TURMA": "T1",
+    "PROFESSOR": "SERGIO ESCALANTE",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Eletromagnetismo I",
+    "SALA": "5098-F",
+    "TURMA": "T2",
+    "PROFESSOR": "Bismarck",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Estradas e Transportes I",
+    "SALA": "5050-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Leandro",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Fund. e Obras de Terra I",
+    "SALA": "5008-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Marcos Antonio",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Princípios de Telecom III",
+    "SALA": "5024F",
+    "TURMA": "1",
+    "PROFESSOR": "Christian Fragoso",
+    "HORÁRIO_INICIAL": "15:10",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "ELETRICIDADE II",
+    "SALA": "5092-F",
+    "TURMA": "T5/6",
+    "PROFESSOR": "OSCAR ZEVALLOS",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Estágio Supervisionado V",
+    "SALA": "5002F",
+    "TURMA": "1",
+    "PROFESSOR": "DOUGLAS MONTEIRO ANDRADE",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Projeto de Graduação IA",
+    "SALA": "5038-F",
+    "TURMA": "T1",
+    "PROFESSOR": "Mª Fernanda",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "17:00",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Química Teórica",
+    "SALA": "5058F",
+    "TURMA": "1",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear",
+    "SALA": "6050",
+    "TURMA": "2",
+    "PROFESSOR": "Alejandro",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Álgebra Linear",
+    "SALA": "6100",
+    "TURMA": "1",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "16:10",
+    "HORÁRIO_FINAL": "18:00",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Álgebra",
+    "SALA": "6105-2",
+    "TURMA": "1",
+    "PROFESSOR": "Joice",
+    "HORÁRIO_INICIAL": "17:10",
+    "HORÁRIO_FINAL": "18:50",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "ANÁLISE DE SISTEMA DE POTÊNCIA II",
+    "SALA": "5092-F",
+    "TURMA": "T1",
+    "PROFESSOR": "SERGIO ESCALANTE",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6106",
+    "TURMA": "1",
+    "PROFESSOR": "Taynara",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Cálculo Diferencial e Integral I",
+    "SALA": "6053",
+    "TURMA": "1",
+    "PROFESSOR": "Rubens Sucupira",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Materiais de Construção Mecânica II",
+    "SALA": "5002F",
+    "TURMA": "1",
+    "PROFESSOR": "JOSE ROBERTO MORAES D'ALMEIDA",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Probabilidade e Estatística III",
+    "SALA": "5058-F",
+    "TURMA": "T5",
+    "PROFESSOR": "Rodrigo Alves",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "20:30",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Sistemas de Telecomunicações I",
+    "SALA": "LEE 18",
+    "TURMA": "1",
+    "PROFESSOR": "Christian Fragoso",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Sistemas de Transportes I",
+    "SALA": "5038-F",
+    "TURMA": "T1",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "19:40",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Tópicos Esp. em Estruturas",
+    "SALA": "5044-F",
+    "TURMA": "T4",
+    "PROFESSOR": "Rodolfo",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "21:20",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Tópicos Esp. em Estruturas",
+    "SALA": "5050-F",
+    "TURMA": "T2",
+    "PROFESSOR": "Monique",
+    "HORÁRIO_INICIAL": "18:00",
+    "HORÁRIO_FINAL": "21:20",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Controle de Qualidade Industrial",
+    "SALA": "5002F",
+    "TURMA": "1",
+    "PROFESSOR": "MILA ROSENDAL AVELINO",
+    "HORÁRIO_INICIAL": "19:40",
+    "HORÁRIO_FINAL": "21:20",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Cálculo I",
+    "SALA": "6058",
+    "TURMA": "2",
+    "PROFESSOR": "Miguel Soto",
+    "HORÁRIO_INICIAL": "19:40",
+    "HORÁRIO_FINAL": "21:20",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Administração Aplicada à Engenharia III",
+    "SALA": "5032F",
+    "TURMA": "T3",
+    "PROFESSOR": "A definir",
+    "HORÁRIO_INICIAL": "20:30",
+    "HORÁRIO_FINAL": "22:10",
+    "DIA_DA_SEMANA": "sex"
+  },
+  {
+    "DISCIPLINA": "Controle de Qualidade Industrial",
+    "SALA": "5002F",
+    "TURMA": "1",
+    "PROFESSOR": "MILA ROSENDAL AVELINO",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "sab"
+  },
+  {
+    "DISCIPLINA": "Materiais de Construção Mecânica I",
+    "SALA": "5004F",
+    "TURMA": "1",
+    "PROFESSOR": "JOSE ROBERTO MORAES D'ALMEIDA",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "09:40",
+    "DIA_DA_SEMANA": "sab"
+  },
+  {
+    "DISCIPLINA": "Transmissão de Calor II",
+    "SALA": "5006F",
+    "TURMA": "1",
+    "PROFESSOR": "EDUARDO DIAS CORRÊA",
+    "HORÁRIO_INICIAL": "07:00",
+    "HORÁRIO_FINAL": "08:40",
+    "DIA_DA_SEMANA": "sab"
+  },
+  {
+    "DISCIPLINA": "Máquinas Térmicas",
+    "SALA": "5002F",
+    "TURMA": "1",
+    "PROFESSOR": "MILA ROSENDAL AVELINO",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "sab"
+  },
+  {
+    "DISCIPLINA": "Tópicos Esp. Constr. Civil I",
+    "SALA": "Fonseca Teles II",
+    "TURMA": "T1",
+    "PROFESSOR": "Bruno Lima",
+    "HORÁRIO_INICIAL": "08:50",
+    "HORÁRIO_FINAL": "12:20",
+    "DIA_DA_SEMANA": "sab"
   }
 ]
