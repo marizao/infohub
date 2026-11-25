@@ -7,8 +7,20 @@
     },
   {
     "id": 2,
-    "url": "https://infohub-gold.vercel.app/assets/bannerengenharia.png",
+    "url": "https://infohub-gold.vercel.app/assets/Capacitaçãoeletrica.png",
     "alt_text": "Banner tamanho total",
     "ordem": 2
+    },
+  {
+    "id": 3,
+    "url": "https://infohub-gold.vercel.app/assets/ConsciênciaNegra.png",
+    "alt_text": "Banner tamanho total",
+    "ordem": 3
+    },
+  {
+    "id": 4,
+    "url": "https://infohub-gold.vercel.app/assets/capitulogrss.png",
+    "alt_text": "Banner tamanho total",
+    "ordem": 4
     }
 ]
